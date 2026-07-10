@@ -1,0 +1,26 @@
+[
+     {
+          "rollNo": 1,
+          "name": "Ali",
+          "age": 20,
+          "course": "Python"
+     },
+     {
+          "rollNo": 2,
+          "name": "Ahmed",
+          "age": 21,
+          "course": "Machine Learning"
+     },
+     {
+          "rollNo": 3,
+          "name": "Sara",
+          "age": 19,
+          "course": "Computer Vision"
+     },
+     {
+          "rollNo": 9,
+          "name": "Hassan Amjad",
+          "age": 23,
+          "course": "Data Structures"
+     }
+]
