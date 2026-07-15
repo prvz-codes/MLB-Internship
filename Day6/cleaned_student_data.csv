@@ -1,0 +1,1001 @@
+Roll_No,Name,Age,Gender,Class,Section,Math,English,Science,Computer,Physics,Chemistry,Attendance,Total_Marks,Average_Marks,Country,Performance
+1001,Usman Yousaf,22,Female,11,B,64,73,81,90,63,78,81,449,74.83333333333333,Pakistan,Average
+1002,Maryam Qureshi,20,Male,10,D,96,77,65,76,82,76,76,472,78.66666666666667,Pakistan,Average
+1003,Ayesha Malik,16,Female,10,E,51,76,67,45,68,77,79,384,64.0,Pakistan,Needs Improvement
+1004,Bilal Cheema,18,Female,9,B,44,56,40,59,76,41,79,316,52.666666666666664,Pakistan,Needs Improvement
+1005,Ahmed Butt,17,Female,12,C,71,46,47,53,56,87,81,360,60.0,Pakistan,Needs Improvement
+1006,Hira Yousaf,22,Female,12,F,77,55,47,79,49,68,88,375,62.5,Pakistan,Needs Improvement
+1007,Noor Shah,22,Female,9,B,50,59,79,69,55,83,77,395,65.83333333333333,Pakistan,Needs Improvement
+1008,Hassan Qureshi,19,Male,11,B,82,85,79,81,64,96,73,487,81.16666666666667,Pakistan,Good
+1009,Talha Raza,19,Male,9,D,42,88,78,89,52,72,83,421,70.16666666666667,Pakistan,Average
+1010,Iqra Chaudhry,17,Female,10,E,41,67,98,47,78,99,83,430,71.66666666666667,Pakistan,Average
+1011,Ahmed Malik,22,Male,9,E,52,100,86,68,56,86,80,448,74.66666666666667,Pakistan,Average
+1012,Maryam Raza,18,Female,11,A,80,89,50,43,97,51,81,410,68.33333333333333,Pakistan,Needs Improvement
+1013,Abdullah Mirza,18,Male,9,E,89,79,89,97,58,58,100,470,78.33333333333333,Pakistan,Average
+1014,Fatima Shah,16,Female,9,E,66,95,86,42,57,51,98,397,66.16666666666667,Pakistan,Needs Improvement
+1015,Hira Javed,20,Female,9,C,84,76,94,73,60,46,87,433,72.16666666666667,Pakistan,Average
+1016,Sana Hassan,19,Female,12,D,60,48,54,64,63,80,73,369,61.5,Pakistan,Needs Improvement
+1017,Sana Malik,20,Female,12,D,48,93,78,83,40,75,86,417,69.5,Pakistan,Needs Improvement
+1018,Ayesha Iqbal,18,Female,10,F,51,44,46,78,41,80,90,340,56.666666666666664,Pakistan,Needs Improvement
+1019,Ayesha Akram,20,Male,9,B,67,80,40,84,70,75,97,416,69.33333333333333,Pakistan,Needs Improvement
+1020,Hamza Aslam,16,Female,11,A,41,76,98,52,90,90,97,447,74.5,Pakistan,Average
+1021,Sana Javed,16,Female,12,F,81,100,81,93,45,60,93,460,76.66666666666667,Pakistan,Average
+1022,Noor Iqbal,22,Female,9,C,40,75,68,45,47,70,76,345,57.5,Pakistan,Needs Improvement
+1023,Maryam Raza,17,Male,10,A,45,68,60,67,90,80,83,410,68.33333333333333,Pakistan,Needs Improvement
+1024,Abdullah Raza,20,Male,11,B,82,77,48,59,46,67,83,379,63.166666666666664,Pakistan,Needs Improvement
+1025,Sana Khan,17,Female,11,F,83,54,73,42,57,60,78,369,61.5,Pakistan,Needs Improvement
+1026,Ahmed Tariq,17,Female,12,B,66,41,42,68,44,44,83,305,50.833333333333336,Pakistan,Needs Improvement
+1027,Usman Noor,21,Male,9,F,91,90,99,98,66,92,89,536,89.33333333333333,Pakistan,Good
+1028,Anaya Butt,20,Female,9,A,45,55,78,98,44,75,86,395,65.83333333333333,Pakistan,Needs Improvement
+1029,Amna Javed,18,Male,9,F,93,89,95,69,60,51,90,457,76.16666666666667,Pakistan,Average
+1030,Saad Siddiqui,19,Male,9,A,72,65,75,63,97,84,98,456,76.0,Pakistan,Average
+1031,Danish Mirza,19,Female,11,F,85,89,41,44,54,94,71,407,67.83333333333333,Pakistan,Needs Improvement
+1032,Hassan Hassan,17,Male,12,C,70,65,96,81,59,93,72,464,77.33333333333333,Pakistan,Average
+1033,Ayesha Raza,18,Female,10,F,90,89,41,93,94,78,75,485,80.83333333333333,Pakistan,Good
+1034,Noor Iqbal,21,Male,10,D,76,41,49,45,41,76,70,328,54.666666666666664,Pakistan,Needs Improvement
+1035,Sana Shah,22,Male,11,C,82,55,48,44,81,54,91,364,60.666666666666664,Pakistan,Needs Improvement
+1036,Noor Akram,21,Female,10,D,61,57,90,89,56,88,85,441,73.5,Pakistan,Average
+1037,Noor Qureshi,16,Female,10,A,66,83,68,85,90,42,98,434,72.33333333333333,Pakistan,Average
+1038,Maryam Cheema,20,Female,9,D,94,78,71,54,67,49,96,413,68.83333333333333,Pakistan,Needs Improvement
+1039,Hamza Butt,18,Male,10,F,86,82,73,47,54,49,71,391,65.16666666666667,Pakistan,Needs Improvement
+1040,Hamza Shah,18,Male,12,B,43,77,63,84,55,73,92,395,65.83333333333333,Pakistan,Needs Improvement
+1041,Fatima Qureshi,19,Male,9,B,40,60,100,80,92,80,89,452,75.33333333333333,Pakistan,Average
+1042,Maryam Chaudhry,18,Female,12,A,49,86,84,77,49,96,100,441,73.5,Pakistan,Average
+1043,Danish Shah,20,Female,9,C,49,94,59,50,81,80,94,413,68.83333333333333,Pakistan,Needs Improvement
+1044,Ali Siddiqui,17,Male,10,B,44,69,66,69,81,92,73,421,70.16666666666667,Pakistan,Average
+1045,Ayesha Mehmood,19,Female,9,D,85,48,100,90,79,80,78,482,80.33333333333333,Pakistan,Good
+1046,Bilal Butt,21,Female,9,E,62,99,82,52,58,73,74,426,71.0,Pakistan,Average
+1047,Saad Mirza,20,Female,11,C,100,72,88,40,55,68,94,423,70.5,Pakistan,Average
+1048,Danish Mehmood,18,Male,12,D,68,55,80,61,56,80,95,400,66.66666666666667,Pakistan,Needs Improvement
+1049,Saad Malik,20,Female,9,A,74,61,66,81,77,93,86,452,75.33333333333333,Pakistan,Average
+1050,Saad Mirza,22,Female,9,D,44,84,90,76,91,41,99,426,71.0,Pakistan,Average
+1051,Amna Shah,22,Male,10,A,54,67,79,86,47,46,73,379,63.166666666666664,Pakistan,Needs Improvement
+1052,Noor Malik,21,Female,9,E,46,89,60,85,56,49,95,385,64.16666666666667,Pakistan,Needs Improvement
+1053,Saad Malik,18,Female,11,F,59,86,89,85,50,69,100,438,73.0,Pakistan,Average
+1054,Ayesha Yousaf,16,Female,11,F,47,43,77,49,52,70,84,338,56.333333333333336,Pakistan,Needs Improvement
+1055,Anaya Qureshi,16,Male,10,A,65,88,40,45,92,66,96,396,66.0,Pakistan,Needs Improvement
+1056,Hira Aslam,18,Female,10,A,80,79,86,55,71,54,72,425,70.83333333333333,Pakistan,Average
+1057,Hassan Akram,20,Male,10,B,91,76,73,97,81,87,71,505,84.16666666666667,Pakistan,Good
+1058,Abdullah Iqbal,22,Female,11,B,81,71,54,53,86,44,85,389,64.83333333333333,Pakistan,Needs Improvement
+1059,Ali Yousaf,22,Male,9,B,71,88,57,40,79,55,83,390,65.0,Pakistan,Needs Improvement
+1060,Danish Butt,18,Female,12,B,81,73,92,54,93,81,98,474,79.0,Pakistan,Average
+1061,Talha Siddiqui,22,Male,11,D,71,56,65,97,65,74,71,428,71.33333333333333,Pakistan,Average
+1062,Saad Mirza,19,Female,9,B,48,41,70,78,72,62,91,371,61.833333333333336,Pakistan,Needs Improvement
+1063,Abdullah Hassan,20,Male,11,C,45,61,50,58,67,56,83,337,56.166666666666664,Pakistan,Needs Improvement
+1064,Danish Siddiqui,22,Male,10,D,65,65,69,59,73,64,94,395,65.83333333333333,Pakistan,Needs Improvement
+1065,Amna Chaudhry,19,Female,10,B,99,95,58,40,72,51,91,415,69.16666666666667,Pakistan,Needs Improvement
+1066,Noor Khan,22,Female,11,C,72,92,67,75,70,68,84,444,74.0,Pakistan,Average
+1067,Ahmed Shah,19,Male,9,B,62,47,59,66,55,59,95,348,58.0,Pakistan,Needs Improvement
+1068,Sana Raza,18,Female,9,E,61,73,94,56,79,45,85,408,68.0,Pakistan,Needs Improvement
+1069,Hamza Butt,22,Male,10,E,53,47,99,100,48,70,76,417,69.5,Pakistan,Needs Improvement
+1070,Hassan Iqbal,17,Male,12,E,42,40,53,44,87,96,83,362,60.333333333333336,Pakistan,Needs Improvement
+1071,Hamza Shah,20,Female,11,E,98,42,61,61,86,73,93,421,70.16666666666667,Pakistan,Average
+1072,Abdullah Noor,19,Female,12,D,96,49,74,88,100,95,87,502,83.66666666666667,Pakistan,Good
+1073,Anaya Hassan,22,Female,12,B,88,99,72,67,72,40,77,438,73.0,Pakistan,Average
+1074,Ahmed Akram,22,Female,12,C,88,46,63,54,82,85,97,418,69.66666666666667,Pakistan,Needs Improvement
+1075,Ayesha Chaudhry,16,Female,10,A,54,69,92,64,54,90,88,423,70.5,Pakistan,Average
+1076,Ali Mehmood,17,Male,9,E,66,73,83,60,95,48,78,425,70.83333333333333,Pakistan,Average
+1077,Amna Mirza,19,Male,9,D,83,64,74,58,53,69,90,401,66.83333333333333,Pakistan,Needs Improvement
+1078,Ahmed Siddiqui,20,Female,10,B,49,52,88,49,59,63,77,360,60.0,Pakistan,Needs Improvement
+1079,Fatima Khan,21,Female,9,A,96,72,46,92,72,57,74,435,72.5,Pakistan,Average
+1080,Noor Aslam,16,Male,9,F,48,69,70,94,72,85,75,438,73.0,Pakistan,Average
+1081,Hira Mirza,21,Female,11,B,58,75,73,66,68,54,90,394,65.66666666666667,Pakistan,Needs Improvement
+1082,Sana Aslam,16,Male,10,F,57,52,57,80,67,61,83,374,62.333333333333336,Pakistan,Needs Improvement
+1083,Noor Shah,22,Male,10,D,100,87,54,65,59,88,82,453,75.5,Pakistan,Average
+1084,Ayesha Cheema,20,Female,10,E,99,60,53,90,56,60,92,418,69.66666666666667,Pakistan,Needs Improvement
+1085,Ayesha Qureshi,19,Male,9,A,82,65,44,88,58,95,99,432,72.0,Pakistan,Average
+1086,Amna Akram,21,Male,11,C,63,41,69,66,69,73,99,381,63.5,Pakistan,Needs Improvement
+1087,Ahmed Yousaf,19,Male,10,E,63,43,95,76,47,42,79,366,61.0,Pakistan,Needs Improvement
+1088,Danish Akram,17,Male,12,B,71,70,83,79,93,82,78,478,79.66666666666667,Pakistan,Average
+1089,Ali Raza,19,Female,11,D,85,69,45,59,95,59,81,412,68.66666666666667,Pakistan,Needs Improvement
+1090,Bilal Cheema,20,Female,10,E,45,60,42,45,74,95,71,361,60.166666666666664,Pakistan,Needs Improvement
+1091,Hassan Ahmed,19,Female,10,C,49,95,85,90,71,40,80,430,71.66666666666667,Pakistan,Average
+1092,Ali Mehmood,17,Female,9,E,83,40,93,56,83,41,74,396,66.0,Pakistan,Needs Improvement
+1093,Ali Iqbal,22,Male,11,B,74,40,100,69,93,50,78,426,71.0,Pakistan,Average
+1094,Hira Cheema,19,Male,11,F,70,86,68,90,78,66,86,458,76.33333333333333,Pakistan,Average
+1095,Abdullah Mirza,16,Female,11,D,92,75,74,67,51,74,76,433,72.16666666666667,Pakistan,Average
+1096,Hira Ahmed,16,Female,10,B,54,89,86,70,67,59,97,425,70.83333333333333,Pakistan,Average
+1097,Amna Malik,20,Female,12,D,53,82,54,96,85,74,99,444,74.0,Pakistan,Average
+1098,Zainab Ahmed,20,Female,12,C,79,85,72,57,82,100,83,475,79.16666666666667,Pakistan,Average
+1099,Fatima Siddiqui,18,Female,10,C,92,42,78,74,49,98,96,433,72.16666666666667,Pakistan,Average
+1100,Saad Akram,21,Male,9,A,59,53,78,46,68,59,86,363,60.5,Pakistan,Needs Improvement
+1101,Hamza Ahmed,16,Female,9,D,63,59,42,82,44,53,95,343,57.166666666666664,Pakistan,Needs Improvement
+1102,Iqra Akram,16,Female,11,B,76,88,68,70,43,97,78,442,73.66666666666667,Pakistan,Average
+1103,Abdullah Hassan,18,Female,11,B,95,91,84,48,57,87,99,462,77.0,Pakistan,Average
+1104,Hamza Shah,16,Male,12,F,43,60,61,58,98,90,77,410,68.33333333333333,Pakistan,Needs Improvement
+1105,Amna Ahmed,22,Female,11,D,98,93,60,72,87,64,77,474,79.0,Pakistan,Average
+1106,Fatima Siddiqui,21,Male,10,C,72,88,81,71,74,94,75,480,80.0,Pakistan,Good
+1107,Noor Butt,21,Female,9,F,90,73,74,42,62,100,99,441,73.5,Pakistan,Average
+1108,Amna Noor,17,Male,11,A,60,44,77,65,71,77,88,394,65.66666666666667,Pakistan,Needs Improvement
+1109,Danish Cheema,19,Female,10,C,54,68,87,86,90,95,91,480,80.0,Pakistan,Good
+1110,Amna Butt,21,Male,11,A,98,54,68,57,94,87,90,458,76.33333333333333,Pakistan,Average
+1111,Zainab Cheema,19,Male,11,B,69,53,82,68,76,93,86,441,73.5,Pakistan,Average
+1112,Zainab Qureshi,16,Female,9,F,75,61,73,77,42,47,81,375,62.5,Pakistan,Needs Improvement
+1113,Ali Khan,22,Female,9,C,65,73,91,77,65,72,82,443,73.83333333333333,Pakistan,Average
+1114,Zainab Aslam,16,Female,11,A,72,72,74,83,41,81,81,423,70.5,Pakistan,Average
+1115,Fatima Qureshi,19,Male,9,B,87,57,61,59,97,40,80,401,66.83333333333333,Pakistan,Needs Improvement
+1116,Ahmed Mirza,22,Female,12,F,74,89,40,77,56,100,99,436,72.66666666666667,Pakistan,Average
+1117,Ali Javed,21,Female,9,F,43,71,69,93,79,80,83,435,72.5,Pakistan,Average
+1118,Ayesha Ahmed,17,Female,12,D,58,78,87,45,43,86,88,397,66.16666666666667,Pakistan,Needs Improvement
+1119,Fatima Mirza,17,Female,11,B,96,45,51,61,83,77,77,413,68.83333333333333,Pakistan,Needs Improvement
+1120,Fatima Butt,21,Female,9,D,92,52,61,54,42,75,99,376,62.666666666666664,Pakistan,Needs Improvement
+1121,Sana Butt,22,Male,11,E,44,52,52,58,62,87,77,355,59.166666666666664,Pakistan,Needs Improvement
+1122,Hamza Mirza,19,Female,10,E,42,91,68,70,97,90,96,458,76.33333333333333,Pakistan,Average
+1123,Ayesha Khan,17,Male,9,A,92,90,72,93,100,87,77,534,89.0,Pakistan,Good
+1124,Noor Yousaf,18,Female,12,F,78,90,94,74,76,49,86,461,76.83333333333333,Pakistan,Average
+1125,Ayesha Butt,19,Male,10,B,60,95,80,93,56,82,78,466,77.66666666666667,Pakistan,Average
+1126,Fatima Cheema,21,Female,10,F,87,81,84,82,57,62,80,453,75.5,Pakistan,Average
+1127,Fatima Qureshi,17,Female,10,F,98,54,73,63,94,60,76,442,73.66666666666667,Pakistan,Average
+1128,Danish Iqbal,18,Male,10,F,70,60,61,94,45,63,73,393,65.5,Pakistan,Needs Improvement
+1129,Hamza Akram,16,Male,9,B,57,86,66,86,50,68,90,413,68.83333333333333,Pakistan,Needs Improvement
+1130,Iqra Chaudhry,18,Male,10,E,92,55,63,85,48,53,88,396,66.0,Pakistan,Needs Improvement
+1131,Iqra Yousaf,20,Male,12,D,65,66,63,56,48,88,91,386,64.33333333333333,Pakistan,Needs Improvement
+1132,Hamza Chaudhry,19,Female,10,E,76,97,48,44,67,90,70,422,70.33333333333333,Pakistan,Average
+1133,Danish Shah,22,Female,10,B,42,62,65,55,97,50,78,371,61.833333333333336,Pakistan,Needs Improvement
+1134,Fatima Mehmood,21,Female,12,E,70,60,43,93,48,81,73,395,65.83333333333333,Pakistan,Needs Improvement
+1135,Iqra Hassan,21,Female,11,E,77,66,75,80,71,54,83,423,70.5,Pakistan,Average
+1136,Abdullah Ahmed,19,Female,12,F,57,99,84,75,77,83,71,475,79.16666666666667,Pakistan,Average
+1137,Danish Akram,17,Female,12,E,71,44,68,69,41,67,75,360,60.0,Pakistan,Needs Improvement
+1138,Amna Hassan,22,Female,11,F,51,62,59,65,68,90,84,395,65.83333333333333,Pakistan,Needs Improvement
+1139,Anaya Raza,21,Male,10,B,58,89,70,72,79,84,84,452,75.33333333333333,Pakistan,Average
+1140,Iqra Mehmood,17,Male,11,A,78,93,90,40,48,56,92,405,67.5,Pakistan,Needs Improvement
+1141,Ahmed Tariq,22,Female,12,D,60,64,88,58,74,94,82,438,73.0,Pakistan,Average
+1142,Talha Malik,18,Male,11,A,84,41,99,93,97,71,79,485,80.83333333333333,Pakistan,Good
+1143,Ayesha Tariq,16,Female,9,E,42,59,48,77,86,98,82,410,68.33333333333333,Pakistan,Needs Improvement
+1144,Saad Raza,19,Female,9,B,93,60,48,41,84,86,97,412,68.66666666666667,Pakistan,Needs Improvement
+1145,Ayesha Javed,20,Female,12,C,86,75,63,90,73,50,74,437,72.83333333333333,Pakistan,Average
+1146,Ahmed Chaudhry,18,Female,12,B,91,48,46,82,91,82,76,440,73.33333333333333,Pakistan,Average
+1147,Sana Tariq,20,Female,11,F,69,51,49,41,93,83,87,386,64.33333333333333,Pakistan,Needs Improvement
+1148,Zainab Tariq,18,Female,9,F,93,67,89,61,40,65,81,415,69.16666666666667,Pakistan,Needs Improvement
+1149,Maryam Mirza,16,Male,10,F,100,50,52,71,87,44,80,404,67.33333333333333,Pakistan,Needs Improvement
+1150,Hamza Cheema,20,Female,11,F,100,66,64,76,68,63,91,437,72.83333333333333,Pakistan,Average
+1151,Sana Shah,19,Female,11,D,75,87,91,56,55,100,93,464,77.33333333333333,Pakistan,Average
+1152,Usman Shah,18,Female,11,D,57,82,53,47,68,42,91,349,58.166666666666664,Pakistan,Needs Improvement
+1153,Hira Chaudhry,19,Female,10,B,62,54,85,58,78,56,91,393,65.5,Pakistan,Needs Improvement
+1154,Ahmed Shah,16,Male,12,A,48,59,46,52,59,79,88,343,57.166666666666664,Pakistan,Needs Improvement
+1155,Sana Aslam,20,Male,10,A,47,61,65,78,86,79,90,416,69.33333333333333,Pakistan,Needs Improvement
+1156,Saad Mirza,20,Female,11,E,68,85,91,59,75,98,91,476,79.33333333333333,Pakistan,Average
+1157,Hira Shah,22,Female,12,D,65,91,75,83,44,75,81,433,72.16666666666667,Pakistan,Average
+1158,Amna Qureshi,18,Female,10,F,55,86,84,86,92,69,92,472,78.66666666666667,Pakistan,Average
+1159,Abdullah Mehmood,18,Male,11,D,94,82,63,60,47,99,81,445,74.16666666666667,Pakistan,Average
+1160,Ayesha Mehmood,21,Male,12,C,88,69,96,74,79,96,72,502,83.66666666666667,Pakistan,Good
+1161,Usman Aslam,21,Female,9,D,57,44,90,41,64,41,76,337,56.166666666666664,Pakistan,Needs Improvement
+1162,Maryam Shah,19,Male,11,D,43,45,54,74,47,71,87,334,55.666666666666664,Pakistan,Needs Improvement
+1163,Saad Shah,20,Male,11,D,73,42,84,84,57,79,91,419,69.83333333333333,Pakistan,Needs Improvement
+1164,Ahmed Mirza,16,Female,10,E,70,95,71,74,97,51,76,458,76.33333333333333,Pakistan,Average
+1165,Ayesha Butt,17,Female,12,A,75,86,51,98,75,45,92,430,71.66666666666667,Pakistan,Average
+1166,Talha Butt,21,Male,12,E,82,98,46,78,90,78,71,472,78.66666666666667,Pakistan,Average
+1167,Ali Qureshi,19,Male,11,B,85,67,61,89,83,93,83,478,79.66666666666667,Pakistan,Average
+1168,Maryam Noor,17,Male,9,A,92,72,92,76,43,57,91,432,72.0,Pakistan,Average
+1169,Ayesha Akram,18,Female,11,A,55,98,40,59,99,97,89,448,74.66666666666667,Pakistan,Average
+1170,Ali Noor,22,Female,11,A,88,48,87,88,48,41,70,400,66.66666666666667,Pakistan,Needs Improvement
+1171,Iqra Hassan,18,Male,10,D,70,88,55,59,59,88,75,419,69.83333333333333,Pakistan,Needs Improvement
+1172,Saad Yousaf,19,Male,11,F,43,89,80,76,92,99,82,479,79.83333333333333,Pakistan,Average
+1173,Maryam Malik,22,Female,11,C,98,55,82,84,53,61,76,433,72.16666666666667,Pakistan,Average
+1174,Abdullah Noor,16,Male,12,B,92,46,87,90,85,88,89,488,81.33333333333333,Pakistan,Good
+1175,Usman Hassan,20,Male,12,F,96,79,49,55,82,77,85,438,73.0,Pakistan,Average
+1176,Hamza Aslam,22,Male,10,E,63,52,72,54,81,87,76,409,68.16666666666667,Pakistan,Needs Improvement
+1177,Ali Mehmood,19,Male,10,A,76,70,89,55,71,62,86,423,70.5,Pakistan,Average
+1178,Noor Aslam,18,Male,11,B,89,80,90,62,41,44,90,406,67.66666666666667,Pakistan,Needs Improvement
+1179,Maryam Ahmed,22,Female,10,A,90,86,58,71,51,55,98,411,68.5,Pakistan,Needs Improvement
+1180,Ayesha Yousaf,22,Female,9,E,60,95,87,86,65,52,99,445,74.16666666666667,Pakistan,Average
+1181,Hamza Raza,16,Male,10,E,58,41,41,57,46,83,93,326,54.333333333333336,Pakistan,Needs Improvement
+1182,Amna Javed,18,Male,11,F,92,67,62,94,65,48,88,428,71.33333333333333,Pakistan,Average
+1183,Sana Javed,20,Female,11,F,47,96,42,70,64,76,98,395,65.83333333333333,Pakistan,Needs Improvement
+1184,Sana Javed,19,Female,9,E,62,46,55,42,52,97,82,354,59.0,Pakistan,Needs Improvement
+1185,Ayesha Butt,21,Female,11,D,66,49,46,48,83,65,80,357,59.5,Pakistan,Needs Improvement
+1186,Maryam Mehmood,16,Male,12,A,89,83,76,78,59,73,91,458,76.33333333333333,Pakistan,Average
+1187,Saad Ahmed,20,Male,11,E,60,43,45,40,45,89,78,322,53.666666666666664,Pakistan,Needs Improvement
+1188,Bilal Noor,20,Female,12,E,58,98,44,97,55,96,74,448,74.66666666666667,Pakistan,Average
+1189,Noor Raza,17,Female,9,E,41,75,100,94,58,86,84,454,75.66666666666667,Pakistan,Average
+1190,Anaya Butt,22,Male,12,F,89,97,44,44,99,84,98,457,76.16666666666667,Pakistan,Average
+1191,Hamza Aslam,22,Male,12,B,54,78,78,74,65,60,99,409,68.16666666666667,Pakistan,Needs Improvement
+1192,Ahmed Hassan,17,Female,10,F,74,50,45,58,78,54,87,359,59.833333333333336,Pakistan,Needs Improvement
+1193,Saad Ahmed,22,Male,12,A,75,85,90,83,99,51,81,483,80.5,Pakistan,Good
+1194,Ali Raza,17,Female,9,E,87,70,68,66,84,65,78,440,73.33333333333333,Pakistan,Average
+1195,Hamza Javed,16,Male,11,E,58,53,92,98,59,64,96,424,70.66666666666667,Pakistan,Average
+1196,Hira Qureshi,19,Female,10,A,46,66,65,74,54,49,83,354,59.0,Pakistan,Needs Improvement
+1197,Danish Cheema,17,Male,10,E,81,60,60,68,100,66,83,435,72.5,Pakistan,Average
+1198,Hamza Mirza,16,Male,10,C,88,58,47,99,78,69,93,439,73.16666666666667,Pakistan,Average
+1199,Hamza Tariq,18,Male,10,A,72,63,92,53,58,55,99,393,65.5,Pakistan,Needs Improvement
+1200,Maryam Noor,19,Male,11,C,96,88,58,99,56,87,78,484,80.66666666666667,Pakistan,Good
+1201,Sana Aslam,19,Male,11,E,74,51,75,51,45,72,75,368,61.333333333333336,Pakistan,Needs Improvement
+1202,Noor Shah,17,Male,9,E,64,82,83,58,50,48,95,385,64.16666666666667,Pakistan,Needs Improvement
+1203,Abdullah Shah,16,Female,12,D,43,75,59,57,75,78,87,387,64.5,Pakistan,Needs Improvement
+1204,Talha Yousaf,19,Female,10,C,73,46,54,68,75,58,87,374,62.333333333333336,Pakistan,Needs Improvement
+1205,Hassan Mirza,18,Male,11,B,48,64,93,50,40,83,99,378,63.0,Pakistan,Needs Improvement
+1206,Sana Javed,18,Female,9,A,49,59,45,78,73,43,71,347,57.833333333333336,Pakistan,Needs Improvement
+1207,Noor Khan,21,Female,10,D,69,96,95,58,41,54,95,413,68.83333333333333,Pakistan,Needs Improvement
+1208,Saad Siddiqui,16,Male,11,E,87,72,64,44,60,93,90,420,70.0,Pakistan,Average
+1209,Bilal Noor,20,Female,12,F,73,97,57,86,42,65,86,420,70.0,Pakistan,Average
+1210,Ayesha Akram,18,Female,10,D,56,41,46,63,56,42,80,304,50.666666666666664,Pakistan,Needs Improvement
+1211,Talha Qureshi,17,Male,10,B,70,78,85,48,77,69,86,427,71.16666666666667,Pakistan,Average
+1212,Sana Javed,16,Male,9,B,93,64,43,61,56,93,70,410,68.33333333333333,Pakistan,Needs Improvement
+1213,Hamza Tariq,19,Male,10,F,95,47,68,49,45,93,79,397,66.16666666666667,Pakistan,Needs Improvement
+1214,Noor Malik,22,Male,11,B,54,42,55,67,62,40,86,320,53.333333333333336,Pakistan,Needs Improvement
+1215,Hassan Chaudhry,18,Male,10,A,63,94,73,72,69,95,86,466,77.66666666666667,Pakistan,Average
+1216,Anaya Qureshi,21,Female,11,A,47,97,64,53,54,100,88,415,69.16666666666667,Pakistan,Needs Improvement
+1217,Hassan Javed,18,Female,11,F,64,73,69,83,53,51,86,393,65.5,Pakistan,Needs Improvement
+1218,Bilal Cheema,20,Male,11,E,93,61,53,94,86,95,94,482,80.33333333333333,Pakistan,Good
+1219,Talha Qureshi,21,Female,9,A,49,90,55,90,94,86,71,464,77.33333333333333,Pakistan,Average
+1220,Iqra Raza,22,Male,9,F,43,71,41,62,93,90,77,400,66.66666666666667,Pakistan,Needs Improvement
+1221,Hira Yousaf,19,Male,11,D,67,48,60,62,61,79,77,377,62.833333333333336,Pakistan,Needs Improvement
+1222,Usman Malik,16,Female,9,D,88,73,95,51,97,74,87,478,79.66666666666667,Pakistan,Average
+1223,Amna Siddiqui,21,Male,9,C,75,69,41,57,75,54,85,371,61.833333333333336,Pakistan,Needs Improvement
+1224,Maryam Khan,18,Male,10,F,71,90,98,88,63,100,88,510,85.0,Pakistan,Good
+1225,Bilal Siddiqui,19,Male,10,D,79,74,99,56,44,85,97,437,72.83333333333333,Pakistan,Average
+1226,Abdullah Cheema,17,Female,10,A,100,57,41,67,82,73,99,420,70.0,Pakistan,Average
+1227,Danish Ahmed,19,Female,10,C,42,54,54,62,70,54,93,336,56.0,Pakistan,Needs Improvement
+1228,Hira Ahmed,19,Female,12,D,43,72,48,98,51,47,76,359,59.833333333333336,Pakistan,Needs Improvement
+1229,Danish Malik,18,Male,11,F,91,80,86,95,63,52,78,467,77.83333333333333,Pakistan,Average
+1230,Iqra Butt,19,Male,11,C,48,46,58,100,77,95,75,424,70.66666666666667,Pakistan,Average
+1231,Ayesha Mirza,22,Male,9,C,82,97,43,70,82,60,98,434,72.33333333333333,Pakistan,Average
+1232,Saad Mehmood,21,Male,11,F,72,88,40,60,93,68,89,421,70.16666666666667,Pakistan,Average
+1233,Noor Chaudhry,20,Female,10,E,51,61,96,73,63,87,92,431,71.83333333333333,Pakistan,Average
+1234,Bilal Yousaf,20,Male,11,F,73,96,50,63,77,86,81,445,74.16666666666667,Pakistan,Average
+1235,Usman Siddiqui,19,Male,9,D,64,41,81,59,53,74,85,372,62.0,Pakistan,Needs Improvement
+1236,Iqra Noor,22,Female,12,E,66,55,80,88,47,92,92,428,71.33333333333333,Pakistan,Average
+1237,Danish Ahmed,17,Female,11,C,53,60,51,46,98,86,93,394,65.66666666666667,Pakistan,Needs Improvement
+1238,Usman Siddiqui,16,Male,12,C,69,55,88,72,70,94,100,448,74.66666666666667,Pakistan,Average
+1239,Noor Noor,22,Female,11,F,68,95,81,100,98,43,98,485,80.83333333333333,Pakistan,Good
+1240,Usman Javed,22,Female,11,B,98,100,77,69,60,80,71,484,80.66666666666667,Pakistan,Good
+1241,Maryam Butt,22,Male,10,F,80,46,48,86,93,48,79,401,66.83333333333333,Pakistan,Needs Improvement
+1242,Anaya Butt,22,Male,11,F,97,53,54,68,60,59,74,391,65.16666666666667,Pakistan,Needs Improvement
+1243,Iqra Javed,16,Female,11,B,62,46,52,81,73,63,86,377,62.833333333333336,Pakistan,Needs Improvement
+1244,Ayesha Ahmed,20,Female,11,F,51,77,90,79,76,70,79,443,73.83333333333333,Pakistan,Average
+1245,Zainab Siddiqui,16,Female,10,B,86,77,76,77,94,69,99,479,79.83333333333333,Pakistan,Average
+1246,Abdullah Shah,20,Female,10,E,66,81,61,83,87,66,79,444,74.0,Pakistan,Average
+1247,Sana Malik,16,Male,11,A,63,82,100,86,66,48,92,445,74.16666666666667,Pakistan,Average
+1248,Iqra Cheema,22,Male,12,E,52,99,77,69,48,45,77,390,65.0,Pakistan,Needs Improvement
+1249,Amna Ahmed,17,Male,9,B,61,40,80,86,99,70,98,436,72.66666666666667,Pakistan,Average
+1250,Ahmed Hassan,17,Male,12,D,87,48,54,56,96,58,96,399,66.5,Pakistan,Needs Improvement
+1251,Hira Siddiqui,20,Female,9,E,88,100,60,49,76,75,73,448,74.66666666666667,Pakistan,Average
+1252,Fatima Malik,18,Male,11,F,87,55,92,94,41,82,87,451,75.16666666666667,Pakistan,Average
+1253,Noor Ahmed,22,Male,10,D,81,66,53,97,65,74,91,436,72.66666666666667,Pakistan,Average
+1254,Hamza Chaudhry,20,Male,10,B,67,41,68,76,77,86,87,415,69.16666666666667,Pakistan,Needs Improvement
+1255,Zainab Mirza,19,Male,9,C,51,43,65,82,66,66,99,373,62.166666666666664,Pakistan,Needs Improvement
+1256,Ali Cheema,21,Male,11,B,51,92,98,64,51,94,92,450,75.0,Pakistan,Average
+1257,Zainab Khan,22,Male,12,A,58,95,65,81,73,57,72,429,71.5,Pakistan,Average
+1258,Ayesha Hassan,21,Female,12,D,56,70,79,85,67,68,90,425,70.83333333333333,Pakistan,Average
+1259,Hamza Chaudhry,21,Male,10,C,89,95,67,100,44,52,73,447,74.5,Pakistan,Average
+1260,Saad Yousaf,17,Male,11,A,45,45,70,100,95,67,92,422,70.33333333333333,Pakistan,Average
+1261,Fatima Akram,19,Male,11,D,88,42,77,56,51,100,72,414,69.0,Pakistan,Needs Improvement
+1262,Hassan Butt,22,Female,9,F,65,72,75,41,99,75,88,427,71.16666666666667,Pakistan,Average
+1263,Hassan Khan,18,Male,12,D,41,45,77,52,67,51,96,333,55.5,Pakistan,Needs Improvement
+1264,Amna Khan,21,Female,11,F,45,92,82,73,72,84,70,448,74.66666666666667,Pakistan,Average
+1265,Danish Noor,16,Female,10,F,96,69,76,83,47,88,86,459,76.5,Pakistan,Average
+1266,Ali Mirza,21,Male,9,A,93,89,47,72,85,69,82,455,75.83333333333333,Pakistan,Average
+1267,Bilal Cheema,16,Female,11,B,89,67,68,86,82,83,96,475,79.16666666666667,Pakistan,Average
+1268,Amna Tariq,17,Female,9,C,70,59,86,72,76,56,70,419,69.83333333333333,Pakistan,Needs Improvement
+1269,Abdullah Qureshi,22,Female,9,F,54,96,83,54,59,44,97,390,65.0,Pakistan,Needs Improvement
+1270,Hamza Cheema,18,Female,11,C,63,99,90,80,57,95,90,484,80.66666666666667,Pakistan,Good
+1271,Hamza Khan,20,Male,11,A,56,59,43,86,89,50,89,383,63.833333333333336,Pakistan,Needs Improvement
+1272,Hira Noor,16,Female,9,E,94,42,95,46,40,54,99,371,61.833333333333336,Pakistan,Needs Improvement
+1273,Saad Siddiqui,22,Male,10,B,85,43,86,89,90,72,77,465,77.5,Pakistan,Average
+1274,Sana Javed,17,Female,10,C,70,66,46,57,99,77,92,415,69.16666666666667,Pakistan,Needs Improvement
+1275,Maryam Yousaf,19,Female,11,B,59,83,49,90,71,72,91,424,70.66666666666667,Pakistan,Average
+1276,Hamza Akram,17,Male,9,B,80,82,62,56,43,48,91,371,61.833333333333336,Pakistan,Needs Improvement
+1277,Amna Aslam,20,Female,10,B,67,52,66,64,53,50,90,352,58.666666666666664,Pakistan,Needs Improvement
+1278,Ali Butt,19,Female,9,F,99,60,96,65,67,73,80,460,76.66666666666667,Pakistan,Average
+1279,Ahmed Mirza,21,Male,12,B,74,71,53,52,53,68,71,371,61.833333333333336,Pakistan,Needs Improvement
+1280,Hassan Mehmood,16,Male,10,F,62,96,76,47,83,47,89,411,68.5,Pakistan,Needs Improvement
+1281,Saad Javed,18,Female,9,B,87,97,55,42,53,72,94,406,67.66666666666667,Pakistan,Needs Improvement
+1282,Bilal Yousaf,18,Female,11,A,40,50,92,94,62,57,76,395,65.83333333333333,Pakistan,Needs Improvement
+1283,Saad Siddiqui,21,Male,11,A,52,63,62,53,94,50,75,374,62.333333333333336,Pakistan,Needs Improvement
+1284,Amna Akram,16,Female,10,A,48,89,51,85,94,67,76,434,72.33333333333333,Pakistan,Average
+1285,Danish Chaudhry,20,Male,12,F,79,63,78,61,77,79,91,437,72.83333333333333,Pakistan,Average
+1286,Hamza Yousaf,17,Female,11,B,99,64,82,88,80,81,99,494,82.33333333333333,Pakistan,Good
+1287,Abdullah Yousaf,19,Female,10,E,40,98,53,77,57,89,95,414,69.0,Pakistan,Needs Improvement
+1288,Hira Siddiqui,22,Female,11,E,54,68,54,96,72,48,91,392,65.33333333333333,Pakistan,Needs Improvement
+1289,Usman Javed,16,Male,9,E,66,93,95,96,84,92,77,526,87.66666666666667,Pakistan,Good
+1290,Saad Shah,18,Female,10,B,93,71,42,89,89,46,72,430,71.66666666666667,Pakistan,Average
+1291,Amna Tariq,16,Female,11,A,50,93,79,41,96,66,89,425,70.83333333333333,Pakistan,Average
+1292,Hamza Shah,20,Female,11,B,47,69,57,49,41,72,84,335,55.833333333333336,Pakistan,Needs Improvement
+1293,Bilal Ahmed,17,Female,10,A,65,42,94,94,57,52,85,404,67.33333333333333,Pakistan,Needs Improvement
+1294,Talha Iqbal,21,Female,12,A,56,89,91,47,66,98,78,447,74.5,Pakistan,Average
+1295,Ali Cheema,16,Male,12,C,83,40,52,79,87,45,76,386,64.33333333333333,Pakistan,Needs Improvement
+1296,Hira Ahmed,20,Male,9,D,70,93,83,46,93,88,74,473,78.83333333333333,Pakistan,Average
+1297,Maryam Malik,16,Female,11,D,94,84,53,91,42,67,80,431,71.83333333333333,Pakistan,Average
+1298,Anaya Iqbal,18,Male,12,E,48,42,87,54,90,61,96,382,63.666666666666664,Pakistan,Needs Improvement
+1299,Bilal Chaudhry,18,Male,12,F,60,76,80,83,97,43,74,439,73.16666666666667,Pakistan,Average
+1300,Abdullah Siddiqui,19,Male,9,C,86,77,59,83,99,78,70,482,80.33333333333333,Pakistan,Good
+1301,Talha Mehmood,16,Male,10,D,91,57,94,92,61,78,81,473,78.83333333333333,Pakistan,Average
+1302,Danish Aslam,17,Male,9,F,64,91,40,98,70,48,94,411,68.5,Pakistan,Needs Improvement
+1303,Bilal Iqbal,16,Male,11,E,42,97,49,85,68,97,74,438,73.0,Pakistan,Average
+1304,Hira Ahmed,22,Male,10,C,68,44,80,49,42,52,97,335,55.833333333333336,Pakistan,Needs Improvement
+1305,Anaya Qureshi,19,Female,12,D,55,50,91,51,51,93,84,391,65.16666666666667,Pakistan,Needs Improvement
+1306,Ayesha Cheema,22,Female,10,C,98,70,86,81,68,57,82,460,76.66666666666667,Pakistan,Average
+1307,Abdullah Yousaf,17,Female,11,E,98,87,87,96,93,93,80,554,92.33333333333333,Pakistan,Excellent
+1308,Maryam Mirza,20,Male,9,F,54,42,73,97,63,57,92,386,64.33333333333333,Pakistan,Needs Improvement
+1309,Amna Yousaf,18,Female,11,B,84,98,54,61,100,57,70,454,75.66666666666667,Pakistan,Average
+1310,Iqra Hassan,21,Male,9,A,54,85,41,74,95,87,89,436,72.66666666666667,Pakistan,Average
+1311,Ahmed Akram,17,Female,11,E,47,80,84,41,62,54,71,368,61.333333333333336,Pakistan,Needs Improvement
+1312,Danish Noor,20,Female,11,E,52,42,89,52,86,40,70,361,60.166666666666664,Pakistan,Needs Improvement
+1313,Usman Chaudhry,22,Male,9,B,70,50,93,65,86,67,87,431,71.83333333333333,Pakistan,Average
+1314,Ayesha Ahmed,22,Female,12,F,53,42,84,75,76,61,80,391,65.16666666666667,Pakistan,Needs Improvement
+1315,Sana Khan,18,Male,11,A,88,84,63,81,58,56,82,430,71.66666666666667,Pakistan,Average
+1316,Usman Ahmed,16,Female,9,B,47,55,62,41,88,96,99,389,64.83333333333333,Pakistan,Needs Improvement
+1317,Hamza Khan,22,Male,9,C,80,65,41,46,73,47,84,352,58.666666666666664,Pakistan,Needs Improvement
+1318,Fatima Iqbal,17,Male,12,F,72,55,79,43,90,100,80,439,73.16666666666667,Pakistan,Average
+1319,Abdullah Chaudhry,20,Female,9,A,98,57,76,83,83,72,82,469,78.16666666666667,Pakistan,Average
+1320,Sana Tariq,21,Female,11,D,81,69,76,49,41,95,85,411,68.5,Pakistan,Needs Improvement
+1321,Danish Tariq,18,Female,9,E,77,66,95,42,92,84,78,456,76.0,Pakistan,Average
+1322,Saad Mehmood,20,Male,11,A,69,87,69,58,44,68,90,395,65.83333333333333,Pakistan,Needs Improvement
+1323,Fatima Raza,20,Male,12,D,71,58,74,42,92,99,70,436,72.66666666666667,Pakistan,Average
+1324,Saad Mirza,18,Male,10,F,66,99,54,91,58,88,76,456,76.0,Pakistan,Average
+1325,Hamza Noor,17,Female,11,F,46,42,75,44,61,55,73,323,53.833333333333336,Pakistan,Needs Improvement
+1326,Anaya Butt,16,Male,12,F,44,83,100,53,54,46,95,380,63.333333333333336,Pakistan,Needs Improvement
+1327,Anaya Iqbal,19,Female,9,A,60,54,43,68,72,83,93,380,63.333333333333336,Pakistan,Needs Improvement
+1328,Hassan Siddiqui,17,Female,12,E,83,42,75,94,91,92,100,477,79.5,Pakistan,Average
+1329,Usman Mirza,19,Male,9,D,76,57,89,66,55,40,92,383,63.833333333333336,Pakistan,Needs Improvement
+1330,Noor Cheema,22,Male,9,D,96,44,62,54,100,98,76,454,75.66666666666667,Pakistan,Average
+1331,Noor Javed,21,Female,9,E,74,100,59,56,40,55,93,384,64.0,Pakistan,Needs Improvement
+1332,Ayesha Aslam,18,Male,9,C,96,66,53,43,47,80,84,385,64.16666666666667,Pakistan,Needs Improvement
+1333,Usman Qureshi,22,Male,9,E,56,56,68,42,88,52,74,362,60.333333333333336,Pakistan,Needs Improvement
+1334,Zainab Siddiqui,20,Female,12,E,95,50,44,53,99,53,77,394,65.66666666666667,Pakistan,Needs Improvement
+1335,Ali Qureshi,16,Male,11,C,81,73,98,91,94,94,79,531,88.5,Pakistan,Good
+1336,Hamza Ahmed,19,Female,12,C,95,80,58,47,89,74,80,443,73.83333333333333,Pakistan,Average
+1337,Talha Shah,21,Female,10,C,93,84,44,71,85,57,74,434,72.33333333333333,Pakistan,Average
+1338,Sana Mirza,20,Male,9,A,74,97,97,50,74,91,88,483,80.5,Pakistan,Good
+1339,Amna Malik,21,Male,9,B,76,93,99,87,93,85,77,533,88.83333333333333,Pakistan,Good
+1340,Danish Aslam,19,Male,9,F,73,62,69,77,89,94,79,464,77.33333333333333,Pakistan,Average
+1341,Amna Yousaf,20,Male,11,B,96,72,97,99,84,92,96,540,90.0,Pakistan,Excellent
+1342,Abdullah Aslam,20,Female,10,F,86,99,53,42,85,87,72,452,75.33333333333333,Pakistan,Average
+1343,Ayesha Ahmed,18,Female,10,F,59,67,88,72,43,46,93,375,62.5,Pakistan,Needs Improvement
+1344,Abdullah Mirza,18,Male,10,D,100,86,95,44,76,41,73,442,73.66666666666667,Pakistan,Average
+1345,Bilal Malik,18,Female,11,E,74,66,46,65,72,83,95,406,67.66666666666667,Pakistan,Needs Improvement
+1346,Abdullah Ahmed,19,Male,10,B,77,45,59,64,55,95,92,395,65.83333333333333,Pakistan,Needs Improvement
+1347,Abdullah Raza,21,Female,10,A,86,60,51,90,87,80,95,454,75.66666666666667,Pakistan,Average
+1348,Bilal Iqbal,16,Female,9,C,95,88,71,66,63,94,88,477,79.5,Pakistan,Average
+1349,Talha Iqbal,18,Male,10,A,94,79,73,72,95,77,71,490,81.66666666666667,Pakistan,Good
+1350,Bilal Iqbal,16,Female,12,E,89,94,54,67,67,45,77,416,69.33333333333333,Pakistan,Needs Improvement
+1351,Danish Yousaf,21,Male,10,B,47,87,45,51,96,73,91,399,66.5,Pakistan,Needs Improvement
+1352,Hassan Akram,16,Male,12,C,58,42,66,96,92,70,85,424,70.66666666666667,Pakistan,Average
+1353,Bilal Noor,17,Male,12,F,81,87,80,98,68,65,98,479,79.83333333333333,Pakistan,Average
+1354,Ayesha Ahmed,20,Female,9,B,87,82,66,84,57,52,78,428,71.33333333333333,Pakistan,Average
+1355,Hamza Malik,18,Male,9,E,41,96,61,95,52,78,92,423,70.5,Pakistan,Average
+1356,Saad Siddiqui,19,Female,12,C,82,71,88,47,61,61,78,410,68.33333333333333,Pakistan,Needs Improvement
+1357,Ali Siddiqui,19,Female,10,B,65,79,98,42,87,69,74,440,73.33333333333333,Pakistan,Average
+1358,Noor Khan,22,Female,9,F,86,100,83,77,45,87,88,478,79.66666666666667,Pakistan,Average
+1359,Bilal Yousaf,21,Female,11,C,95,78,75,65,84,86,82,483,80.5,Pakistan,Good
+1360,Saad Noor,20,Female,10,C,77,77,54,63,67,66,92,404,67.33333333333333,Pakistan,Needs Improvement
+1361,Noor Qureshi,19,Female,12,A,61,42,67,41,51,51,81,313,52.166666666666664,Pakistan,Needs Improvement
+1362,Iqra Khan,17,Female,12,A,98,79,100,82,100,50,77,509,84.83333333333333,Pakistan,Good
+1363,Amna Mirza,21,Female,12,D,83,71,98,97,55,88,77,492,82.0,Pakistan,Good
+1364,Abdullah Akram,22,Female,9,B,44,99,62,41,86,92,86,424,70.66666666666667,Pakistan,Average
+1365,Hamza Akram,22,Male,12,E,40,41,43,80,55,66,93,325,54.166666666666664,Pakistan,Needs Improvement
+1366,Bilal Javed,19,Male,10,A,54,64,59,54,57,67,96,355,59.166666666666664,Pakistan,Needs Improvement
+1367,Anaya Ahmed,20,Male,12,A,96,96,41,85,58,88,100,464,77.33333333333333,Pakistan,Average
+1368,Amna Yousaf,21,Male,12,F,44,100,56,94,63,89,95,446,74.33333333333333,Pakistan,Average
+1369,Fatima Raza,20,Female,12,C,57,69,86,68,95,49,83,424,70.66666666666667,Pakistan,Average
+1370,Noor Malik,19,Male,9,A,92,93,50,100,55,82,79,472,78.66666666666667,Pakistan,Average
+1371,Hassan Akram,22,Male,12,A,80,54,61,60,86,98,71,439,73.16666666666667,Pakistan,Average
+1372,Anaya Javed,21,Female,10,A,52,49,53,85,56,77,85,372,62.0,Pakistan,Needs Improvement
+1373,Amna Khan,21,Female,11,C,89,77,55,89,96,54,96,460,76.66666666666667,Pakistan,Average
+1374,Hamza Aslam,18,Female,12,E,46,95,84,86,90,74,86,475,79.16666666666667,Pakistan,Average
+1375,Iqra Aslam,19,Female,9,F,66,99,67,81,82,40,81,435,72.5,Pakistan,Average
+1376,Ahmed Mehmood,21,Female,9,C,89,44,82,47,97,72,72,431,71.83333333333333,Pakistan,Average
+1377,Iqra Shah,22,Male,11,E,44,64,43,59,44,83,100,337,56.166666666666664,Pakistan,Needs Improvement
+1378,Amna Yousaf,21,Male,9,F,68,52,46,78,82,81,99,407,67.83333333333333,Pakistan,Needs Improvement
+1379,Zainab Ahmed,19,Female,10,D,93,98,93,53,96,87,93,520,86.66666666666667,Pakistan,Good
+1380,Sana Tariq,22,Female,11,C,53,93,54,76,45,71,95,392,65.33333333333333,Pakistan,Needs Improvement
+1381,Zainab Yousaf,18,Female,9,D,61,87,69,55,51,48,74,371,61.833333333333336,Pakistan,Needs Improvement
+1382,Bilal Shah,22,Female,9,B,71,87,93,96,72,100,87,519,86.5,Pakistan,Good
+1383,Saad Raza,17,Male,9,F,46,93,72,71,86,82,92,450,75.0,Pakistan,Average
+1384,Sana Cheema,19,Female,11,D,59,99,60,94,49,54,90,415,69.16666666666667,Pakistan,Needs Improvement
+1385,Amna Shah,22,Male,12,F,59,42,64,73,87,40,71,365,60.833333333333336,Pakistan,Needs Improvement
+1386,Iqra Chaudhry,20,Male,10,A,41,89,87,87,68,85,95,457,76.16666666666667,Pakistan,Average
+1387,Zainab Noor,17,Female,9,F,58,85,63,62,85,83,95,436,72.66666666666667,Pakistan,Average
+1388,Ali Malik,19,Male,9,E,44,44,51,59,46,62,85,306,51.0,Pakistan,Needs Improvement
+1389,Usman Mehmood,19,Female,11,A,54,68,46,43,48,91,85,350,58.333333333333336,Pakistan,Needs Improvement
+1390,Ahmed Cheema,21,Female,9,D,42,53,84,61,86,98,77,424,70.66666666666667,Pakistan,Average
+1391,Usman Noor,18,Male,11,B,91,48,51,60,69,65,83,384,64.0,Pakistan,Needs Improvement
+1392,Ahmed Mehmood,18,Female,9,E,69,81,98,73,80,66,92,467,77.83333333333333,Pakistan,Average
+1393,Maryam Aslam,22,Male,12,C,88,74,42,98,97,59,88,458,76.33333333333333,Pakistan,Average
+1394,Talha Mirza,17,Male,11,D,80,87,100,70,49,71,83,457,76.16666666666667,Pakistan,Average
+1395,Maryam Raza,20,Male,9,F,90,78,40,52,73,48,85,381,63.5,Pakistan,Needs Improvement
+1396,Zainab Hassan,22,Female,11,D,79,66,47,44,94,76,81,406,67.66666666666667,Pakistan,Needs Improvement
+1397,Anaya Tariq,21,Female,10,F,58,87,61,45,72,42,78,365,60.833333333333336,Pakistan,Needs Improvement
+1398,Danish Khan,22,Male,11,B,62,50,81,49,71,86,73,399,66.5,Pakistan,Needs Improvement
+1399,Iqra Noor,18,Female,9,F,81,61,66,93,44,95,70,440,73.33333333333333,Pakistan,Average
+1400,Bilal Siddiqui,20,Female,9,E,71,55,46,61,50,92,74,375,62.5,Pakistan,Needs Improvement
+1401,Maryam Yousaf,17,Male,12,B,86,89,76,97,71,54,90,473,78.83333333333333,Pakistan,Average
+1402,Talha Malik,16,Female,11,B,84,71,92,69,53,47,73,416,69.33333333333333,Pakistan,Needs Improvement
+1403,Hassan Chaudhry,17,Male,10,D,67,98,50,81,58,41,81,395,65.83333333333333,Pakistan,Needs Improvement
+1404,Usman Siddiqui,16,Female,10,D,96,59,40,69,61,47,94,372,62.0,Pakistan,Needs Improvement
+1405,Sana Raza,21,Female,10,A,54,89,93,64,88,45,77,433,72.16666666666667,Pakistan,Average
+1406,Anaya Ahmed,22,Male,10,E,42,58,65,100,45,45,76,355,59.166666666666664,Pakistan,Needs Improvement
+1407,Saad Iqbal,22,Male,10,A,95,44,81,79,62,65,73,426,71.0,Pakistan,Average
+1408,Maryam Shah,22,Female,10,A,100,80,76,84,70,76,83,486,81.0,Pakistan,Good
+1409,Danish Chaudhry,19,Female,12,A,62,71,53,84,79,68,78,417,69.5,Pakistan,Needs Improvement
+1410,Hira Javed,18,Female,11,E,46,73,70,64,94,85,88,432,72.0,Pakistan,Average
+1411,Hira Aslam,20,Male,12,E,100,49,81,85,86,67,79,468,78.0,Pakistan,Average
+1412,Bilal Aslam,17,Male,10,D,93,79,82,62,42,94,94,452,75.33333333333333,Pakistan,Average
+1413,Ahmed Shah,22,Female,11,A,52,65,63,44,89,83,94,396,66.0,Pakistan,Needs Improvement
+1414,Hira Yousaf,20,Male,10,C,79,94,62,46,84,64,80,429,71.5,Pakistan,Average
+1415,Sana Siddiqui,19,Male,11,E,92,77,77,83,74,48,89,451,75.16666666666667,Pakistan,Average
+1416,Hassan Iqbal,16,Male,11,E,63,89,42,88,77,88,75,447,74.5,Pakistan,Average
+1417,Danish Noor,21,Male,12,D,53,60,70,86,58,43,88,370,61.666666666666664,Pakistan,Needs Improvement
+1418,Ahmed Chaudhry,18,Female,9,B,80,42,80,63,78,49,93,392,65.33333333333333,Pakistan,Needs Improvement
+1419,Danish Chaudhry,17,Male,12,B,90,95,78,94,77,45,82,479,79.83333333333333,Pakistan,Average
+1420,Talha Hassan,16,Female,9,A,80,88,89,72,86,77,94,492,82.0,Pakistan,Good
+1421,Zainab Cheema,22,Female,10,F,80,45,49,53,88,66,100,381,63.5,Pakistan,Needs Improvement
+1422,Iqra Butt,21,Male,9,E,46,61,49,73,51,85,97,365,60.833333333333336,Pakistan,Needs Improvement
+1423,Abdullah Ahmed,20,Female,11,D,61,75,76,49,47,66,84,374,62.333333333333336,Pakistan,Needs Improvement
+1424,Ali Iqbal,16,Male,12,C,80,75,77,91,50,75,83,448,74.66666666666667,Pakistan,Average
+1425,Iqra Noor,16,Female,11,B,97,52,41,69,77,100,78,436,72.66666666666667,Pakistan,Average
+1426,Amna Butt,19,Male,12,C,50,62,49,48,82,96,98,387,64.5,Pakistan,Needs Improvement
+1427,Zainab Iqbal,21,Male,11,E,53,81,100,90,49,76,81,449,74.83333333333333,Pakistan,Average
+1428,Fatima Mirza,22,Male,12,E,98,79,63,65,80,87,92,472,78.66666666666667,Pakistan,Average
+1429,Hira Malik,21,Female,11,E,82,69,81,41,63,48,81,384,64.0,Pakistan,Needs Improvement
+1430,Usman Khan,22,Male,12,E,79,64,70,52,56,90,75,411,68.5,Pakistan,Needs Improvement
+1431,Maryam Qureshi,18,Male,11,D,57,55,59,49,63,99,94,382,63.666666666666664,Pakistan,Needs Improvement
+1432,Hassan Aslam,18,Female,12,B,97,88,65,64,56,77,85,447,74.5,Pakistan,Average
+1433,Talha Ahmed,16,Male,11,D,59,43,48,85,82,45,94,362,60.333333333333336,Pakistan,Needs Improvement
+1434,Hamza Malik,21,Male,10,C,81,100,62,65,42,83,91,433,72.16666666666667,Pakistan,Average
+1435,Anaya Iqbal,19,Male,10,F,56,100,82,91,56,100,74,485,80.83333333333333,Pakistan,Good
+1436,Fatima Mirza,20,Female,11,F,64,69,61,88,91,55,80,428,71.33333333333333,Pakistan,Average
+1437,Ayesha Noor,20,Female,10,C,72,72,51,94,100,83,91,472,78.66666666666667,Pakistan,Average
+1438,Usman Siddiqui,21,Male,12,A,69,67,91,68,63,57,73,415,69.16666666666667,Pakistan,Needs Improvement
+1439,Amna Cheema,19,Male,12,F,86,56,50,46,44,87,93,369,61.5,Pakistan,Needs Improvement
+1440,Sana Khan,19,Male,12,B,100,42,46,43,49,87,76,367,61.166666666666664,Pakistan,Needs Improvement
+1441,Sana Chaudhry,21,Male,10,C,61,59,77,44,91,48,95,380,63.333333333333336,Pakistan,Needs Improvement
+1442,Hamza Qureshi,17,Male,9,F,62,58,72,99,57,75,70,423,70.5,Pakistan,Average
+1443,Sana Aslam,16,Male,11,A,46,80,89,75,44,70,97,404,67.33333333333333,Pakistan,Needs Improvement
+1444,Ahmed Akram,21,Male,12,F,76,48,99,79,91,60,92,453,75.5,Pakistan,Average
+1445,Iqra Siddiqui,20,Male,9,F,55,53,99,96,97,69,81,469,78.16666666666667,Pakistan,Average
+1446,Danish Hassan,22,Female,9,E,86,55,99,56,44,76,98,416,69.33333333333333,Pakistan,Needs Improvement
+1447,Hira Khan,22,Male,12,A,83,70,82,78,88,66,76,467,77.83333333333333,Pakistan,Average
+1448,Sana Qureshi,19,Male,10,B,84,65,46,100,44,98,76,437,72.83333333333333,Pakistan,Average
+1449,Sana Akram,16,Female,10,D,81,80,95,52,91,95,78,494,82.33333333333333,Pakistan,Good
+1450,Ayesha Tariq,20,Male,12,F,54,40,97,85,79,94,100,449,74.83333333333333,Pakistan,Average
+1451,Danish Butt,18,Female,12,F,99,80,44,74,54,52,76,403,67.16666666666667,Pakistan,Needs Improvement
+1452,Fatima Ahmed,17,Female,10,D,69,91,73,62,40,86,86,421,70.16666666666667,Pakistan,Average
+1453,Saad Malik,21,Female,10,A,90,97,69,68,49,54,92,427,71.16666666666667,Pakistan,Average
+1454,Noor Chaudhry,20,Male,9,D,54,82,72,48,76,77,73,409,68.16666666666667,Pakistan,Needs Improvement
+1455,Hira Qureshi,19,Male,10,B,96,69,51,68,62,68,97,414,69.0,Pakistan,Needs Improvement
+1456,Noor Cheema,16,Female,12,D,54,69,89,66,50,97,99,425,70.83333333333333,Pakistan,Average
+1457,Iqra Hassan,17,Female,10,B,70,82,94,46,46,81,93,419,69.83333333333333,Pakistan,Needs Improvement
+1458,Hassan Akram,18,Female,9,E,100,72,84,96,90,62,94,504,84.0,Pakistan,Good
+1459,Fatima Mirza,21,Male,12,E,54,55,54,87,40,92,90,382,63.666666666666664,Pakistan,Needs Improvement
+1460,Ayesha Qureshi,22,Male,10,F,64,100,83,67,98,48,96,460,76.66666666666667,Pakistan,Average
+1461,Danish Tariq,20,Female,10,C,72,40,48,87,72,86,82,405,67.5,Pakistan,Needs Improvement
+1462,Maryam Malik,19,Male,9,A,68,98,64,55,79,62,93,426,71.0,Pakistan,Average
+1463,Bilal Ahmed,18,Female,10,D,60,83,76,91,53,86,96,449,74.83333333333333,Pakistan,Average
+1464,Ali Malik,19,Male,9,C,88,50,79,91,87,98,77,493,82.16666666666667,Pakistan,Good
+1465,Fatima Khan,18,Female,9,A,65,70,84,41,66,86,96,412,68.66666666666667,Pakistan,Needs Improvement
+1466,Ali Raza,21,Male,11,C,64,89,95,45,46,84,95,423,70.5,Pakistan,Average
+1467,Saad Mirza,22,Female,12,A,47,65,76,48,96,54,94,386,64.33333333333333,Pakistan,Needs Improvement
+1468,Danish Mehmood,16,Male,9,B,48,60,67,53,76,61,74,365,60.833333333333336,Pakistan,Needs Improvement
+1469,Sana Malik,20,Male,9,E,45,52,88,84,43,88,99,400,66.66666666666667,Pakistan,Needs Improvement
+1470,Hassan Siddiqui,21,Male,11,E,92,94,76,59,74,53,70,448,74.66666666666667,Pakistan,Average
+1471,Hira Akram,21,Female,11,A,78,77,100,53,60,76,87,444,74.0,Pakistan,Average
+1472,Bilal Malik,21,Male,12,B,77,89,90,94,98,64,90,512,85.33333333333333,Pakistan,Good
+1473,Hira Khan,18,Male,12,D,94,71,49,63,87,89,70,453,75.5,Pakistan,Average
+1474,Ahmed Yousaf,17,Female,12,F,100,84,68,98,97,89,85,536,89.33333333333333,Pakistan,Good
+1475,Danish Chaudhry,19,Male,12,A,83,86,80,73,63,50,80,435,72.5,Pakistan,Average
+1476,Fatima Akram,16,Male,10,E,56,98,63,44,64,85,85,410,68.33333333333333,Pakistan,Needs Improvement
+1477,Zainab Hassan,22,Male,10,B,52,48,65,74,44,54,90,337,56.166666666666664,Pakistan,Needs Improvement
+1478,Saad Akram,18,Male,9,D,96,93,97,63,44,84,93,477,79.5,Pakistan,Average
+1479,Anaya Ahmed,20,Male,11,C,59,59,79,87,98,98,98,480,80.0,Pakistan,Good
+1480,Amna Mirza,17,Female,11,F,56,96,90,69,81,93,88,485,80.83333333333333,Pakistan,Good
+1481,Anaya Butt,21,Female,9,A,51,65,89,43,86,40,93,374,62.333333333333336,Pakistan,Needs Improvement
+1482,Hira Hassan,21,Female,9,D,91,67,78,61,77,90,94,464,77.33333333333333,Pakistan,Average
+1483,Sana Mehmood,17,Male,9,B,52,100,57,64,52,51,71,376,62.666666666666664,Pakistan,Needs Improvement
+1484,Danish Akram,17,Male,9,C,68,97,63,56,63,56,95,403,67.16666666666667,Pakistan,Needs Improvement
+1485,Zainab Akram,16,Male,12,A,63,40,67,41,52,80,70,343,57.166666666666664,Pakistan,Needs Improvement
+1486,Talha Siddiqui,22,Male,12,B,59,66,84,60,41,68,81,378,63.0,Pakistan,Needs Improvement
+1487,Hassan Ahmed,20,Male,12,D,69,47,74,55,96,63,82,404,67.33333333333333,Pakistan,Needs Improvement
+1488,Hassan Hassan,17,Male,12,A,53,93,58,89,97,100,80,490,81.66666666666667,Pakistan,Good
+1489,Abdullah Khan,18,Male,12,B,54,61,100,67,42,40,84,364,60.666666666666664,Pakistan,Needs Improvement
+1490,Ali Butt,19,Female,9,B,86,97,68,63,57,57,73,428,71.33333333333333,Pakistan,Average
+1491,Hamza Malik,16,Male,9,D,100,53,75,92,92,98,98,510,85.0,Pakistan,Good
+1492,Anaya Khan,21,Male,9,E,43,97,70,47,66,98,70,421,70.16666666666667,Pakistan,Average
+1493,Fatima Tariq,18,Male,12,F,82,97,41,97,60,54,95,431,71.83333333333333,Pakistan,Average
+1494,Hira Hassan,22,Female,12,D,91,49,89,54,44,87,70,414,69.0,Pakistan,Needs Improvement
+1495,Talha Iqbal,19,Female,11,A,86,98,57,85,98,78,89,502,83.66666666666667,Pakistan,Good
+1496,Usman Qureshi,22,Male,10,D,87,69,43,63,57,51,95,370,61.666666666666664,Pakistan,Needs Improvement
+1497,Fatima Javed,22,Male,9,D,68,56,61,87,97,72,90,441,73.5,Pakistan,Average
+1498,Noor Raza,21,Female,10,F,83,59,51,91,80,74,73,438,73.0,Pakistan,Average
+1499,Zainab Akram,18,Male,10,A,83,40,52,52,96,81,98,404,67.33333333333333,Pakistan,Needs Improvement
+1500,Hira Tariq,17,Female,11,E,65,85,82,91,94,98,95,515,85.83333333333333,Pakistan,Good
+1501,Danish Qureshi,19,Female,11,D,59,71,74,89,96,56,73,445,74.16666666666667,Pakistan,Average
+1502,Sana Aslam,16,Male,11,E,58,83,59,60,45,73,96,378,63.0,Pakistan,Needs Improvement
+1503,Anaya Akram,21,Male,12,B,98,54,77,57,57,99,91,442,73.66666666666667,Pakistan,Average
+1504,Usman Akram,17,Female,11,C,97,72,48,97,79,86,91,479,79.83333333333333,Pakistan,Average
+1505,Ali Cheema,21,Female,11,E,85,89,91,100,58,49,78,472,78.66666666666667,Pakistan,Average
+1506,Talha Iqbal,20,Female,11,C,86,60,77,91,40,50,77,404,67.33333333333333,Pakistan,Needs Improvement
+1507,Danish Javed,22,Female,9,C,41,42,41,68,87,78,85,357,59.5,Pakistan,Needs Improvement
+1508,Danish Mehmood,22,Male,11,D,59,60,59,72,85,87,80,422,70.33333333333333,Pakistan,Average
+1509,Talha Mehmood,19,Male,10,C,82,72,85,53,68,78,81,438,73.0,Pakistan,Average
+1510,Noor Qureshi,18,Female,11,E,41,79,60,71,53,82,99,386,64.33333333333333,Pakistan,Needs Improvement
+1511,Hamza Shah,16,Female,10,E,74,95,40,83,45,91,76,428,71.33333333333333,Pakistan,Average
+1512,Bilal Iqbal,17,Male,10,E,69,51,49,93,44,97,84,403,67.16666666666667,Pakistan,Needs Improvement
+1513,Ahmed Cheema,16,Female,12,D,100,100,53,86,50,91,86,480,80.0,Pakistan,Good
+1514,Bilal Qureshi,19,Female,10,D,61,97,82,73,65,95,73,473,78.83333333333333,Pakistan,Average
+1515,Danish Raza,20,Female,10,C,55,82,82,68,59,74,84,420,70.0,Pakistan,Average
+1516,Abdullah Iqbal,19,Male,12,F,40,59,52,42,97,48,89,338,56.333333333333336,Pakistan,Needs Improvement
+1517,Abdullah Hassan,21,Male,9,D,87,43,49,81,94,87,88,441,73.5,Pakistan,Average
+1518,Danish Noor,19,Female,10,B,81,84,44,81,62,75,90,427,71.16666666666667,Pakistan,Average
+1519,Ali Ahmed,18,Male,12,E,70,40,85,94,55,68,95,412,68.66666666666667,Pakistan,Needs Improvement
+1520,Iqra Akram,19,Female,9,A,47,88,92,83,84,80,73,474,79.0,Pakistan,Average
+1521,Ayesha Qureshi,17,Male,12,F,44,50,79,44,44,94,79,355,59.166666666666664,Pakistan,Needs Improvement
+1522,Ayesha Shah,20,Female,10,B,45,83,64,80,46,77,73,395,65.83333333333333,Pakistan,Needs Improvement
+1523,Ahmed Hassan,22,Female,11,B,48,73,73,97,65,85,72,441,73.5,Pakistan,Average
+1524,Maryam Raza,22,Male,9,C,95,91,40,81,57,52,73,416,69.33333333333333,Pakistan,Needs Improvement
+1525,Hamza Mehmood,20,Male,10,C,79,57,65,92,61,96,91,450,75.0,Pakistan,Average
+1526,Hira Mirza,19,Female,10,F,77,79,84,74,77,77,79,468,78.0,Pakistan,Average
+1527,Danish Aslam,20,Male,12,C,96,92,63,74,47,62,90,434,72.33333333333333,Pakistan,Average
+1528,Talha Qureshi,18,Female,10,F,54,49,65,94,77,44,70,383,63.833333333333336,Pakistan,Needs Improvement
+1529,Hamza Chaudhry,22,Male,10,E,51,52,87,85,77,54,72,406,67.66666666666667,Pakistan,Needs Improvement
+1530,Noor Yousaf,20,Male,9,B,47,76,79,65,43,53,70,363,60.5,Pakistan,Needs Improvement
+1531,Usman Mirza,17,Male,11,C,92,99,85,54,60,67,77,457,76.16666666666667,Pakistan,Average
+1532,Hamza Tariq,18,Female,10,A,40,92,81,72,72,63,89,420,70.0,Pakistan,Average
+1533,Sana Iqbal,19,Male,11,C,60,92,81,79,50,42,87,404,67.33333333333333,Pakistan,Needs Improvement
+1534,Hira Akram,18,Male,9,E,89,100,51,69,45,46,77,400,66.66666666666667,Pakistan,Needs Improvement
+1535,Maryam Shah,20,Male,9,E,55,67,87,45,74,61,92,389,64.83333333333333,Pakistan,Needs Improvement
+1536,Amna Yousaf,21,Male,12,A,42,71,98,78,71,71,83,431,71.83333333333333,Pakistan,Average
+1537,Ayesha Hassan,20,Female,12,F,88,46,65,95,54,43,98,391,65.16666666666667,Pakistan,Needs Improvement
+1538,Ahmed Shah,20,Male,9,E,86,79,78,96,63,71,96,473,78.83333333333333,Pakistan,Average
+1539,Ayesha Khan,20,Male,11,B,96,72,72,85,56,68,74,449,74.83333333333333,Pakistan,Average
+1540,Ayesha Hassan,18,Female,10,B,73,56,65,97,84,77,91,452,75.33333333333333,Pakistan,Average
+1541,Hassan Butt,22,Female,11,A,76,94,61,55,50,98,73,434,72.33333333333333,Pakistan,Average
+1542,Abdullah Aslam,17,Female,9,B,64,73,44,62,83,71,95,397,66.16666666666667,Pakistan,Needs Improvement
+1543,Usman Qureshi,20,Male,9,E,48,71,62,54,99,68,88,402,67.0,Pakistan,Needs Improvement
+1544,Hassan Cheema,18,Female,12,D,61,98,83,50,67,55,70,414,69.0,Pakistan,Needs Improvement
+1545,Hamza Yousaf,21,Male,12,C,66,44,96,80,63,51,91,400,66.66666666666667,Pakistan,Needs Improvement
+1546,Ayesha Butt,20,Male,11,C,94,89,68,55,60,100,98,466,77.66666666666667,Pakistan,Average
+1547,Ayesha Butt,18,Male,12,C,45,52,62,41,62,70,82,332,55.333333333333336,Pakistan,Needs Improvement
+1548,Ali Hassan,22,Female,11,C,96,66,84,52,87,55,100,440,73.33333333333333,Pakistan,Average
+1549,Bilal Malik,18,Male,12,A,44,96,86,60,42,63,87,391,65.16666666666667,Pakistan,Needs Improvement
+1550,Ali Siddiqui,20,Female,12,A,93,49,77,66,97,42,70,424,70.66666666666667,Pakistan,Average
+1551,Hamza Mehmood,19,Female,9,E,94,40,75,50,75,57,70,391,65.16666666666667,Pakistan,Needs Improvement
+1552,Hamza Aslam,16,Female,9,A,51,50,71,98,82,79,87,431,71.83333333333333,Pakistan,Average
+1553,Bilal Tariq,21,Male,12,A,69,62,70,66,67,65,77,399,66.5,Pakistan,Needs Improvement
+1554,Fatima Chaudhry,16,Female,12,B,64,89,84,42,52,92,96,423,70.5,Pakistan,Average
+1555,Noor Iqbal,22,Male,12,A,99,59,91,52,67,62,83,430,71.66666666666667,Pakistan,Average
+1556,Bilal Akram,19,Female,10,A,57,69,83,77,55,44,93,385,64.16666666666667,Pakistan,Needs Improvement
+1557,Iqra Noor,20,Female,9,B,93,91,89,55,61,84,75,473,78.83333333333333,Pakistan,Average
+1558,Talha Aslam,16,Male,9,B,68,51,96,40,84,74,80,413,68.83333333333333,Pakistan,Needs Improvement
+1559,Saad Butt,22,Female,9,B,80,87,63,43,88,49,90,410,68.33333333333333,Pakistan,Needs Improvement
+1560,Danish Javed,20,Male,11,D,61,44,88,41,42,54,100,330,55.0,Pakistan,Needs Improvement
+1561,Maryam Siddiqui,19,Male,11,A,100,74,90,63,73,55,90,455,75.83333333333333,Pakistan,Average
+1562,Bilal Mirza,19,Female,12,D,95,63,93,60,45,58,79,414,69.0,Pakistan,Needs Improvement
+1563,Maryam Tariq,16,Male,11,F,51,100,85,62,59,54,72,411,68.5,Pakistan,Needs Improvement
+1564,Amna Cheema,16,Male,12,F,90,56,91,91,94,40,86,462,77.0,Pakistan,Average
+1565,Ali Iqbal,17,Female,12,D,53,51,71,75,62,100,83,412,68.66666666666667,Pakistan,Needs Improvement
+1566,Hira Shah,22,Female,11,F,80,48,92,82,84,41,78,427,71.16666666666667,Pakistan,Average
+1567,Saad Javed,20,Male,12,B,90,99,45,56,77,62,83,429,71.5,Pakistan,Average
+1568,Iqra Cheema,22,Male,10,F,100,84,57,56,89,94,78,480,80.0,Pakistan,Good
+1569,Ali Hassan,22,Female,9,D,77,94,43,100,93,49,95,456,76.0,Pakistan,Average
+1570,Abdullah Mehmood,17,Male,10,A,71,80,93,89,96,70,98,499,83.16666666666667,Pakistan,Good
+1571,Sana Butt,16,Male,10,F,52,89,54,49,98,48,91,390,65.0,Pakistan,Needs Improvement
+1572,Fatima Ahmed,22,Female,9,D,98,41,46,100,91,47,83,423,70.5,Pakistan,Average
+1573,Hira Iqbal,16,Female,10,E,85,45,86,43,95,61,81,415,69.16666666666667,Pakistan,Needs Improvement
+1574,Abdullah Shah,22,Female,12,A,62,53,98,62,98,75,95,448,74.66666666666667,Pakistan,Average
+1575,Danish Mehmood,16,Female,10,D,53,70,43,90,72,87,88,415,69.16666666666667,Pakistan,Needs Improvement
+1576,Noor Cheema,19,Male,10,C,72,61,92,96,79,97,93,497,82.83333333333333,Pakistan,Good
+1577,Saad Butt,21,Female,11,A,74,91,51,98,94,48,91,456,76.0,Pakistan,Average
+1578,Talha Raza,21,Male,9,C,66,82,82,91,65,70,73,456,76.0,Pakistan,Average
+1579,Hamza Ahmed,21,Female,12,F,46,74,90,100,91,61,86,462,77.0,Pakistan,Average
+1580,Hira Cheema,17,Male,11,C,47,76,66,42,42,90,80,363,60.5,Pakistan,Needs Improvement
+1581,Sana Mirza,16,Male,12,B,41,66,85,70,45,94,70,401,66.83333333333333,Pakistan,Needs Improvement
+1582,Talha Javed,21,Female,12,D,83,64,74,96,50,87,84,454,75.66666666666667,Pakistan,Average
+1583,Danish Shah,19,Female,12,F,78,77,82,67,97,57,92,458,76.33333333333333,Pakistan,Average
+1584,Amna Butt,16,Male,11,B,84,94,94,90,57,100,87,519,86.5,Pakistan,Good
+1585,Zainab Tariq,21,Male,11,E,78,80,90,68,59,76,99,451,75.16666666666667,Pakistan,Average
+1586,Ali Shah,20,Female,9,E,80,56,55,78,64,67,87,400,66.66666666666667,Pakistan,Needs Improvement
+1587,Abdullah Malik,18,Male,12,B,87,88,95,80,46,44,73,440,73.33333333333333,Pakistan,Average
+1588,Saad Akram,21,Female,12,F,75,82,63,42,90,68,87,420,70.0,Pakistan,Average
+1589,Hamza Iqbal,16,Male,11,E,86,98,75,48,81,61,82,449,74.83333333333333,Pakistan,Average
+1590,Hassan Malik,17,Female,11,E,47,63,53,48,97,87,76,395,65.83333333333333,Pakistan,Needs Improvement
+1591,Bilal Ahmed,18,Female,10,F,81,99,73,66,59,54,78,432,72.0,Pakistan,Average
+1592,Usman Cheema,22,Female,11,D,42,54,92,79,48,73,87,388,64.66666666666667,Pakistan,Needs Improvement
+1593,Hira Akram,17,Male,12,B,94,47,58,89,56,41,78,385,64.16666666666667,Pakistan,Needs Improvement
+1594,Iqra Hassan,16,Male,11,A,83,58,70,62,77,82,87,432,72.0,Pakistan,Average
+1595,Fatima Cheema,22,Female,10,E,86,83,57,61,79,83,75,449,74.83333333333333,Pakistan,Average
+1596,Hira Ahmed,18,Female,10,C,47,64,68,63,77,43,99,362,60.333333333333336,Pakistan,Needs Improvement
+1597,Maryam Mehmood,16,Male,9,D,90,83,45,49,52,93,75,412,68.66666666666667,Pakistan,Needs Improvement
+1598,Danish Shah,18,Female,11,B,73,59,74,100,57,40,70,403,67.16666666666667,Pakistan,Needs Improvement
+1599,Abdullah Cheema,20,Female,10,A,88,60,65,43,87,91,96,434,72.33333333333333,Pakistan,Average
+1600,Ayesha Tariq,20,Male,10,E,83,51,88,53,51,63,88,389,64.83333333333333,Pakistan,Needs Improvement
+1601,Hira Akram,21,Male,9,E,71,90,99,75,75,58,84,468,78.0,Pakistan,Average
+1602,Zainab Iqbal,17,Female,11,F,58,51,78,47,88,66,99,388,64.66666666666667,Pakistan,Needs Improvement
+1603,Sana Siddiqui,21,Male,12,B,56,86,81,46,55,44,72,368,61.333333333333336,Pakistan,Needs Improvement
+1604,Hamza Iqbal,18,Male,11,C,75,55,71,68,81,60,70,410,68.33333333333333,Pakistan,Needs Improvement
+1605,Zainab Mirza,22,Female,11,E,60,83,67,89,98,93,93,490,81.66666666666667,Pakistan,Good
+1606,Ahmed Akram,21,Female,10,F,74,72,93,85,73,64,74,461,76.83333333333333,Pakistan,Average
+1607,Danish Ahmed,17,Female,10,D,78,44,49,62,79,81,73,393,65.5,Pakistan,Needs Improvement
+1608,Zainab Hassan,18,Male,9,E,62,69,88,43,72,76,92,410,68.33333333333333,Pakistan,Needs Improvement
+1609,Zainab Butt,21,Female,10,A,77,71,48,77,49,55,71,377,62.833333333333336,Pakistan,Needs Improvement
+1610,Ahmed Siddiqui,19,Male,10,F,98,99,76,98,91,60,87,522,87.0,Pakistan,Good
+1611,Zainab Noor,22,Male,9,D,96,45,90,91,79,87,93,488,81.33333333333333,Pakistan,Good
+1612,Hira Yousaf,22,Female,10,F,55,89,90,77,45,83,83,439,73.16666666666667,Pakistan,Average
+1613,Sana Butt,17,Male,9,B,92,71,50,40,49,40,98,342,57.0,Pakistan,Needs Improvement
+1614,Bilal Chaudhry,18,Female,9,E,78,78,53,97,54,42,91,402,67.0,Pakistan,Needs Improvement
+1615,Abdullah Aslam,18,Male,9,F,42,68,95,88,79,46,80,418,69.66666666666667,Pakistan,Needs Improvement
+1616,Talha Noor,22,Female,12,A,100,89,50,74,64,92,79,469,78.16666666666667,Pakistan,Average
+1617,Maryam Javed,21,Female,12,E,61,52,61,43,44,80,100,341,56.833333333333336,Pakistan,Needs Improvement
+1618,Fatima Aslam,18,Male,10,E,45,83,97,58,52,41,92,376,62.666666666666664,Pakistan,Needs Improvement
+1619,Hassan Raza,20,Female,10,D,77,56,60,97,60,76,92,426,71.0,Pakistan,Average
+1620,Saad Mehmood,20,Female,9,D,85,92,77,61,61,45,94,421,70.16666666666667,Pakistan,Average
+1621,Saad Shah,19,Male,12,A,80,59,92,58,84,43,72,416,69.33333333333333,Pakistan,Needs Improvement
+1622,Anaya Butt,22,Female,9,B,47,53,69,48,95,100,71,412,68.66666666666667,Pakistan,Needs Improvement
+1623,Ahmed Akram,20,Male,10,E,83,70,43,93,45,89,89,423,70.5,Pakistan,Average
+1624,Hira Raza,19,Male,9,C,89,58,97,60,92,87,82,483,80.5,Pakistan,Good
+1625,Bilal Butt,22,Male,11,D,60,70,56,59,75,80,96,400,66.66666666666667,Pakistan,Needs Improvement
+1626,Maryam Butt,18,Male,11,C,42,45,62,98,99,53,83,399,66.5,Pakistan,Needs Improvement
+1627,Hassan Chaudhry,16,Male,9,E,99,45,60,62,45,92,75,403,67.16666666666667,Pakistan,Needs Improvement
+1628,Zainab Butt,22,Female,11,C,48,47,79,63,89,90,92,416,69.33333333333333,Pakistan,Needs Improvement
+1629,Maryam Mirza,22,Male,9,A,85,82,66,40,53,94,85,420,70.0,Pakistan,Average
+1630,Ali Shah,17,Male,11,C,56,42,74,72,75,97,91,416,69.33333333333333,Pakistan,Needs Improvement
+1631,Bilal Shah,21,Female,12,B,48,77,77,88,100,49,76,439,73.16666666666667,Pakistan,Average
+1632,Fatima Mehmood,22,Male,12,B,62,41,69,56,47,82,77,357,59.5,Pakistan,Needs Improvement
+1633,Noor Siddiqui,22,Female,10,B,95,62,66,46,80,64,83,413,68.83333333333333,Pakistan,Needs Improvement
+1634,Usman Qureshi,21,Female,11,C,54,89,81,66,50,91,98,431,71.83333333333333,Pakistan,Average
+1635,Bilal Malik,18,Male,9,B,95,47,61,42,65,64,97,374,62.333333333333336,Pakistan,Needs Improvement
+1636,Abdullah Chaudhry,18,Male,10,A,93,86,70,44,52,67,86,412,68.66666666666667,Pakistan,Needs Improvement
+1637,Amna Javed,20,Female,10,D,61,68,52,79,72,44,80,376,62.666666666666664,Pakistan,Needs Improvement
+1638,Zainab Cheema,19,Female,12,D,70,48,50,70,46,81,76,365,60.833333333333336,Pakistan,Needs Improvement
+1639,Iqra Ahmed,22,Female,11,B,49,74,45,56,60,100,89,384,64.0,Pakistan,Needs Improvement
+1640,Bilal Yousaf,18,Female,9,B,94,65,46,53,85,81,77,424,70.66666666666667,Pakistan,Average
+1641,Sana Noor,20,Male,11,E,76,95,51,72,74,91,75,459,76.5,Pakistan,Average
+1642,Fatima Hassan,18,Male,9,F,78,90,66,51,82,95,80,462,77.0,Pakistan,Average
+1643,Amna Raza,17,Male,12,B,84,47,92,84,66,67,88,440,73.33333333333333,Pakistan,Average
+1644,Usman Ahmed,17,Male,12,C,48,54,74,86,78,69,73,409,68.16666666666667,Pakistan,Needs Improvement
+1645,Ali Siddiqui,22,Female,9,F,79,62,86,50,62,91,82,430,71.66666666666667,Pakistan,Average
+1646,Zainab Ahmed,21,Female,11,A,70,76,83,74,67,58,86,428,71.33333333333333,Pakistan,Average
+1647,Ayesha Noor,19,Female,9,E,56,69,96,93,83,78,88,475,79.16666666666667,Pakistan,Average
+1648,Abdullah Akram,17,Female,9,F,60,63,78,61,88,69,82,419,69.83333333333333,Pakistan,Needs Improvement
+1649,Saad Noor,17,Male,12,B,69,46,41,64,40,48,96,308,51.333333333333336,Pakistan,Needs Improvement
+1650,Hassan Chaudhry,21,Male,10,C,80,97,47,87,93,98,88,502,83.66666666666667,Pakistan,Good
+1651,Noor Mehmood,19,Female,10,C,85,68,40,65,74,45,89,377,62.833333333333336,Pakistan,Needs Improvement
+1652,Abdullah Akram,19,Female,10,A,90,50,74,67,65,56,85,402,67.0,Pakistan,Needs Improvement
+1653,Usman Yousaf,20,Female,11,B,93,45,48,61,79,98,86,424,70.66666666666667,Pakistan,Average
+1654,Abdullah Khan,16,Female,9,E,52,64,68,66,51,44,79,345,57.5,Pakistan,Needs Improvement
+1655,Hassan Malik,19,Male,9,A,57,41,47,49,68,99,76,361,60.166666666666664,Pakistan,Needs Improvement
+1656,Danish Iqbal,19,Male,9,B,53,49,61,98,60,99,100,420,70.0,Pakistan,Average
+1657,Abdullah Yousaf,20,Female,10,B,49,60,81,57,99,91,81,437,72.83333333333333,Pakistan,Average
+1658,Hira Siddiqui,16,Female,9,B,77,99,70,88,97,85,86,516,86.0,Pakistan,Good
+1659,Hira Hassan,19,Female,12,B,49,55,54,94,81,46,70,379,63.166666666666664,Pakistan,Needs Improvement
+1660,Fatima Mehmood,22,Female,9,C,72,90,44,58,82,98,85,444,74.0,Pakistan,Average
+1661,Ahmed Iqbal,18,Female,11,B,84,90,61,76,66,77,72,454,75.66666666666667,Pakistan,Average
+1662,Iqra Mirza,18,Male,12,C,99,41,71,87,61,41,78,400,66.66666666666667,Pakistan,Needs Improvement
+1663,Ayesha Iqbal,18,Male,12,C,93,81,56,63,73,46,95,412,68.66666666666667,Pakistan,Needs Improvement
+1664,Ayesha Ahmed,21,Male,11,C,69,48,90,61,66,69,81,403,67.16666666666667,Pakistan,Needs Improvement
+1665,Ayesha Butt,16,Male,11,A,82,49,48,89,48,81,94,397,66.16666666666667,Pakistan,Needs Improvement
+1666,Bilal Shah,20,Male,9,E,62,93,86,74,52,94,82,461,76.83333333333333,Pakistan,Average
+1667,Sana Yousaf,17,Female,12,B,51,67,77,84,51,49,74,379,63.166666666666664,Pakistan,Needs Improvement
+1668,Danish Hassan,18,Female,12,F,98,68,70,73,48,62,79,419,69.83333333333333,Pakistan,Needs Improvement
+1669,Abdullah Khan,17,Female,12,F,49,93,45,90,88,42,71,407,67.83333333333333,Pakistan,Needs Improvement
+1670,Saad Raza,16,Male,10,E,74,58,84,46,71,40,83,373,62.166666666666664,Pakistan,Needs Improvement
+1671,Hassan Ahmed,16,Female,12,E,93,67,67,59,99,66,71,451,75.16666666666667,Pakistan,Average
+1672,Zainab Yousaf,18,Female,10,F,48,82,99,83,58,87,92,457,76.16666666666667,Pakistan,Average
+1673,Maryam Chaudhry,22,Male,11,D,55,57,48,89,91,43,82,383,63.833333333333336,Pakistan,Needs Improvement
+1674,Ayesha Siddiqui,22,Male,11,E,71,61,76,54,90,91,83,443,73.83333333333333,Pakistan,Average
+1675,Hira Iqbal,21,Male,12,B,54,81,94,71,79,88,79,467,77.83333333333333,Pakistan,Average
+1676,Ahmed Mehmood,17,Male,11,A,41,96,40,83,42,54,79,356,59.333333333333336,Pakistan,Needs Improvement
+1677,Talha Iqbal,17,Female,10,C,100,52,56,48,64,77,80,397,66.16666666666667,Pakistan,Needs Improvement
+1678,Hassan Chaudhry,20,Female,12,B,56,66,65,54,79,99,78,419,69.83333333333333,Pakistan,Needs Improvement
+1679,Hira Hassan,17,Male,9,B,62,69,42,99,56,70,93,398,66.33333333333333,Pakistan,Needs Improvement
+1680,Fatima Khan,20,Female,9,B,90,76,52,91,96,84,88,489,81.5,Pakistan,Good
+1681,Iqra Yousaf,20,Female,11,E,59,61,47,46,46,98,96,357,59.5,Pakistan,Needs Improvement
+1682,Abdullah Aslam,22,Male,12,E,89,79,72,89,80,58,71,467,77.83333333333333,Pakistan,Average
+1683,Hassan Qureshi,22,Female,10,A,97,95,85,44,90,44,76,455,75.83333333333333,Pakistan,Average
+1684,Hassan Malik,22,Female,11,B,94,91,73,65,85,68,87,476,79.33333333333333,Pakistan,Average
+1685,Maryam Khan,16,Female,9,D,52,88,67,67,95,46,90,415,69.16666666666667,Pakistan,Needs Improvement
+1686,Amna Iqbal,20,Male,12,C,80,53,76,98,49,89,86,445,74.16666666666667,Pakistan,Average
+1687,Saad Hassan,22,Male,11,D,82,98,60,92,48,66,73,446,74.33333333333333,Pakistan,Average
+1688,Hamza Siddiqui,18,Male,12,D,45,88,54,65,83,80,92,415,69.16666666666667,Pakistan,Needs Improvement
+1689,Saad Noor,18,Female,11,F,64,46,43,87,82,67,96,389,64.83333333333333,Pakistan,Needs Improvement
+1690,Usman Mehmood,20,Female,11,C,50,66,57,81,87,94,71,435,72.5,Pakistan,Average
+1691,Ahmed Aslam,17,Male,9,D,56,83,55,84,62,67,79,407,67.83333333333333,Pakistan,Needs Improvement
+1692,Danish Ahmed,17,Male,11,B,60,49,41,91,70,41,81,352,58.666666666666664,Pakistan,Needs Improvement
+1693,Noor Qureshi,21,Female,11,F,52,55,57,83,66,45,84,358,59.666666666666664,Pakistan,Needs Improvement
+1694,Fatima Malik,20,Male,12,F,43,73,100,82,80,56,76,434,72.33333333333333,Pakistan,Average
+1695,Danish Qureshi,22,Male,11,C,74,94,51,54,97,45,85,415,69.16666666666667,Pakistan,Needs Improvement
+1696,Amna Noor,18,Female,9,A,63,59,80,51,99,73,94,425,70.83333333333333,Pakistan,Average
+1697,Maryam Chaudhry,22,Male,9,F,54,62,78,47,54,90,75,385,64.16666666666667,Pakistan,Needs Improvement
+1698,Ali Shah,19,Female,11,A,96,44,85,94,96,85,77,500,83.33333333333333,Pakistan,Good
+1699,Ali Raza,22,Male,9,E,44,58,47,100,43,58,90,350,58.333333333333336,Pakistan,Needs Improvement
+1700,Fatima Qureshi,16,Female,12,F,95,77,87,41,58,54,74,412,68.66666666666667,Pakistan,Needs Improvement
+1701,Hamza Mirza,20,Male,11,E,86,42,63,65,43,68,100,367,61.166666666666664,Pakistan,Needs Improvement
+1702,Bilal Mehmood,21,Female,11,C,100,61,91,70,71,68,85,461,76.83333333333333,Pakistan,Average
+1703,Amna Tariq,16,Female,12,D,80,100,94,53,77,67,90,471,78.5,Pakistan,Average
+1704,Ayesha Shah,19,Male,12,C,78,59,50,72,47,56,89,362,60.333333333333336,Pakistan,Needs Improvement
+1705,Ahmed Noor,19,Male,11,D,75,83,52,43,95,91,78,439,73.16666666666667,Pakistan,Average
+1706,Noor Tariq,18,Male,10,E,79,41,72,70,59,91,74,412,68.66666666666667,Pakistan,Needs Improvement
+1707,Usman Shah,21,Male,9,B,70,62,47,50,91,93,93,413,68.83333333333333,Pakistan,Needs Improvement
+1708,Saad Chaudhry,18,Male,10,F,94,93,57,100,75,63,71,482,80.33333333333333,Pakistan,Good
+1709,Hassan Malik,18,Female,10,D,49,82,66,79,74,98,93,448,74.66666666666667,Pakistan,Average
+1710,Fatima Chaudhry,17,Male,11,E,73,81,40,85,82,85,92,446,74.33333333333333,Pakistan,Average
+1711,Iqra Siddiqui,22,Male,12,C,91,43,73,100,50,63,99,420,70.0,Pakistan,Average
+1712,Noor Noor,22,Male,11,D,54,46,69,55,53,63,93,340,56.666666666666664,Pakistan,Needs Improvement
+1713,Ali Noor,16,Female,9,F,84,86,77,46,93,82,73,468,78.0,Pakistan,Average
+1714,Usman Butt,20,Female,9,B,68,75,91,96,100,50,79,480,80.0,Pakistan,Good
+1715,Saad Javed,18,Female,12,D,46,69,95,81,95,83,90,469,78.16666666666667,Pakistan,Average
+1716,Usman Javed,19,Male,9,B,49,59,67,74,86,51,92,386,64.33333333333333,Pakistan,Needs Improvement
+1717,Bilal Raza,16,Female,12,C,91,78,73,54,94,72,80,462,77.0,Pakistan,Average
+1718,Noor Yousaf,20,Male,12,C,67,64,42,45,99,99,70,416,69.33333333333333,Pakistan,Needs Improvement
+1719,Ahmed Tariq,21,Male,9,B,92,59,57,94,81,69,78,452,75.33333333333333,Pakistan,Average
+1720,Amna Javed,22,Male,10,B,40,100,54,94,62,48,74,398,66.33333333333333,Pakistan,Needs Improvement
+1721,Anaya Shah,18,Female,10,F,51,94,43,100,89,97,88,474,79.0,Pakistan,Average
+1722,Anaya Aslam,21,Male,10,B,72,60,65,46,73,78,95,394,65.66666666666667,Pakistan,Needs Improvement
+1723,Saad Raza,16,Male,10,C,71,52,61,96,94,49,71,423,70.5,Pakistan,Average
+1724,Iqra Yousaf,22,Female,11,B,52,48,100,75,71,92,100,438,73.0,Pakistan,Average
+1725,Iqra Tariq,18,Female,10,A,82,48,66,82,93,74,78,445,74.16666666666667,Pakistan,Average
+1726,Hamza Hassan,16,Female,12,F,96,53,94,41,69,59,70,412,68.66666666666667,Pakistan,Needs Improvement
+1727,Ahmed Tariq,16,Female,11,B,69,60,64,45,100,53,72,391,65.16666666666667,Pakistan,Needs Improvement
+1728,Hamza Malik,21,Male,12,B,80,71,66,99,49,57,99,422,70.33333333333333,Pakistan,Average
+1729,Bilal Yousaf,17,Male,11,E,81,85,92,44,58,57,99,417,69.5,Pakistan,Needs Improvement
+1730,Talha Aslam,22,Male,9,E,67,49,53,82,64,92,98,407,67.83333333333333,Pakistan,Needs Improvement
+1731,Abdullah Mehmood,16,Male,11,D,86,76,96,56,54,88,89,456,76.0,Pakistan,Average
+1732,Maryam Qureshi,20,Male,12,C,100,90,82,99,57,44,72,472,78.66666666666667,Pakistan,Average
+1733,Anaya Khan,21,Male,10,B,65,85,51,56,43,91,96,391,65.16666666666667,Pakistan,Needs Improvement
+1734,Fatima Yousaf,19,Male,9,F,56,87,87,88,73,88,83,479,79.83333333333333,Pakistan,Average
+1735,Usman Akram,20,Female,9,C,80,62,52,95,58,65,88,412,68.66666666666667,Pakistan,Needs Improvement
+1736,Danish Chaudhry,20,Female,12,A,79,95,91,68,52,44,87,429,71.5,Pakistan,Average
+1737,Amna Malik,17,Female,9,A,53,87,46,86,56,71,97,399,66.5,Pakistan,Needs Improvement
+1738,Sana Javed,21,Male,9,C,49,58,84,48,41,53,87,333,55.5,Pakistan,Needs Improvement
+1739,Iqra Butt,22,Male,9,A,86,61,90,86,96,92,78,511,85.16666666666667,Pakistan,Good
+1740,Fatima Tariq,19,Female,12,B,100,53,99,43,63,55,77,413,68.83333333333333,Pakistan,Needs Improvement
+1741,Fatima Butt,22,Male,12,C,71,75,55,83,65,45,74,394,65.66666666666667,Pakistan,Needs Improvement
+1742,Saad Khan,20,Female,10,A,82,81,43,80,79,78,84,443,73.83333333333333,Pakistan,Average
+1743,Noor Tariq,20,Female,12,F,73,71,66,46,94,41,90,391,65.16666666666667,Pakistan,Needs Improvement
+1744,Bilal Tariq,16,Female,9,E,42,42,67,51,100,69,78,371,61.833333333333336,Pakistan,Needs Improvement
+1745,Amna Butt,17,Male,10,F,40,70,86,83,92,82,85,453,75.5,Pakistan,Average
+1746,Talha Malik,19,Male,10,B,67,87,88,79,61,95,86,477,79.5,Pakistan,Average
+1747,Abdullah Siddiqui,19,Female,12,C,91,73,78,92,71,83,82,488,81.33333333333333,Pakistan,Good
+1748,Anaya Butt,17,Male,9,D,45,99,97,43,98,78,80,460,76.66666666666667,Pakistan,Average
+1749,Abdullah Mehmood,21,Female,11,E,63,78,78,55,79,71,94,424,70.66666666666667,Pakistan,Average
+1750,Usman Qureshi,19,Female,11,E,94,62,77,47,42,45,78,367,61.166666666666664,Pakistan,Needs Improvement
+1751,Saad Qureshi,22,Female,9,B,74,71,65,61,46,44,96,361,60.166666666666664,Pakistan,Needs Improvement
+1752,Amna Tariq,20,Female,11,C,81,90,86,86,54,94,86,491,81.83333333333333,Pakistan,Good
+1753,Sana Noor,18,Female,12,D,44,44,49,43,70,95,96,345,57.5,Pakistan,Needs Improvement
+1754,Hassan Mirza,17,Male,11,D,72,52,97,60,85,48,77,414,69.0,Pakistan,Needs Improvement
+1755,Iqra Mirza,20,Female,9,E,96,96,41,43,71,86,89,433,72.16666666666667,Pakistan,Average
+1756,Ali Butt,19,Female,10,B,75,89,100,90,48,75,91,477,79.5,Pakistan,Average
+1757,Ayesha Siddiqui,21,Female,12,B,85,90,61,59,52,96,92,443,73.83333333333333,Pakistan,Average
+1758,Ahmed Cheema,21,Male,11,F,100,64,78,74,41,73,100,430,71.66666666666667,Pakistan,Average
+1759,Hira Raza,21,Female,9,A,85,92,58,68,97,81,97,481,80.16666666666667,Pakistan,Good
+1760,Danish Qureshi,20,Male,12,C,65,45,71,48,99,44,87,372,62.0,Pakistan,Needs Improvement
+1761,Zainab Butt,21,Female,9,C,96,64,95,44,73,71,93,443,73.83333333333333,Pakistan,Average
+1762,Noor Tariq,19,Female,11,B,65,48,73,80,95,71,89,432,72.0,Pakistan,Average
+1763,Usman Akram,19,Female,11,C,53,71,50,65,50,58,96,347,57.833333333333336,Pakistan,Needs Improvement
+1764,Hamza Ahmed,22,Male,12,B,40,63,54,100,92,74,78,423,70.5,Pakistan,Average
+1765,Noor Raza,22,Female,12,E,56,58,92,93,92,72,100,463,77.16666666666667,Pakistan,Average
+1766,Anaya Hassan,22,Female,12,A,61,66,84,84,47,76,100,418,69.66666666666667,Pakistan,Needs Improvement
+1767,Danish Siddiqui,22,Male,9,D,58,54,48,98,60,69,96,387,64.5,Pakistan,Needs Improvement
+1768,Zainab Siddiqui,20,Female,12,E,92,42,48,89,99,49,95,419,69.83333333333333,Pakistan,Needs Improvement
+1769,Talha Malik,19,Female,10,D,51,78,41,41,93,82,75,386,64.33333333333333,Pakistan,Needs Improvement
+1770,Danish Hassan,18,Male,12,A,44,65,99,95,90,85,73,478,79.66666666666667,Pakistan,Average
+1771,Danish Khan,19,Female,9,C,86,47,86,58,76,86,100,439,73.16666666666667,Pakistan,Average
+1772,Sana Iqbal,22,Male,10,C,99,46,40,84,56,68,87,393,65.5,Pakistan,Needs Improvement
+1773,Ayesha Javed,16,Female,11,D,43,41,80,46,79,100,73,389,64.83333333333333,Pakistan,Needs Improvement
+1774,Talha Mirza,19,Male,10,E,87,41,70,57,70,44,75,369,61.5,Pakistan,Needs Improvement
+1775,Usman Javed,17,Female,11,D,92,67,48,60,62,74,71,403,67.16666666666667,Pakistan,Needs Improvement
+1776,Maryam Iqbal,17,Female,9,C,56,67,98,40,98,54,84,413,68.83333333333333,Pakistan,Needs Improvement
+1777,Ahmed Ahmed,21,Male,11,E,41,56,50,94,41,44,72,326,54.333333333333336,Pakistan,Needs Improvement
+1778,Abdullah Noor,16,Female,11,B,61,67,98,52,66,92,71,436,72.66666666666667,Pakistan,Average
+1779,Ayesha Mehmood,19,Female,12,A,76,70,78,88,88,94,85,494,82.33333333333333,Pakistan,Good
+1780,Iqra Malik,18,Female,12,C,46,47,87,91,84,94,89,449,74.83333333333333,Pakistan,Average
+1781,Amna Chaudhry,17,Male,10,A,57,79,71,48,84,45,82,384,64.0,Pakistan,Needs Improvement
+1782,Fatima Mehmood,19,Male,12,A,53,82,90,86,85,71,93,467,77.83333333333333,Pakistan,Average
+1783,Anaya Tariq,16,Female,10,A,62,51,100,65,45,97,76,420,70.0,Pakistan,Average
+1784,Zainab Aslam,19,Female,11,C,97,56,75,74,69,99,74,470,78.33333333333333,Pakistan,Average
+1785,Noor Iqbal,16,Male,9,A,86,44,83,54,86,96,87,449,74.83333333333333,Pakistan,Average
+1786,Ali Javed,16,Female,10,E,73,82,41,72,44,59,73,371,61.833333333333336,Pakistan,Needs Improvement
+1787,Hamza Aslam,16,Female,11,F,91,91,82,95,53,54,95,466,77.66666666666667,Pakistan,Average
+1788,Anaya Akram,21,Male,11,C,76,44,95,56,74,47,84,392,65.33333333333333,Pakistan,Needs Improvement
+1789,Zainab Siddiqui,16,Male,9,B,44,86,71,88,71,96,97,456,76.0,Pakistan,Average
+1790,Ali Qureshi,22,Male,12,F,60,86,42,42,88,77,73,395,65.83333333333333,Pakistan,Needs Improvement
+1791,Iqra Cheema,17,Female,12,B,74,76,85,56,64,90,87,445,74.16666666666667,Pakistan,Average
+1792,Maryam Malik,22,Male,10,B,99,88,64,60,71,43,89,425,70.83333333333333,Pakistan,Average
+1793,Fatima Cheema,21,Female,12,A,67,65,93,40,56,73,87,394,65.66666666666667,Pakistan,Needs Improvement
+1794,Hamza Cheema,19,Female,9,A,59,50,66,54,51,96,91,376,62.666666666666664,Pakistan,Needs Improvement
+1795,Amna Noor,20,Male,11,C,53,83,80,40,54,52,71,362,60.333333333333336,Pakistan,Needs Improvement
+1796,Hassan Yousaf,20,Male,9,A,47,56,42,93,85,72,85,395,65.83333333333333,Pakistan,Needs Improvement
+1797,Maryam Mirza,18,Female,10,F,58,78,70,90,79,77,91,452,75.33333333333333,Pakistan,Average
+1798,Talha Javed,16,Male,12,D,64,63,74,69,57,60,95,387,64.5,Pakistan,Needs Improvement
+1799,Hamza Aslam,22,Male,12,D,60,41,93,80,83,60,97,417,69.5,Pakistan,Needs Improvement
+1800,Noor Tariq,16,Female,9,E,54,82,49,73,64,57,88,379,63.166666666666664,Pakistan,Needs Improvement
+1801,Usman Tariq,22,Male,9,F,85,67,45,71,56,40,72,364,60.666666666666664,Pakistan,Needs Improvement
+1802,Talha Raza,16,Male,11,B,84,78,99,57,93,76,94,487,81.16666666666667,Pakistan,Good
+1803,Danish Raza,22,Male,10,A,81,98,100,55,98,74,87,506,84.33333333333333,Pakistan,Good
+1804,Ali Shah,18,Male,11,C,79,98,73,41,62,52,88,405,67.5,Pakistan,Needs Improvement
+1805,Bilal Akram,16,Male,9,A,42,82,53,84,55,100,75,416,69.33333333333333,Pakistan,Needs Improvement
+1806,Danish Raza,18,Male,9,B,66,79,70,53,64,44,80,376,62.666666666666664,Pakistan,Needs Improvement
+1807,Abdullah Ahmed,22,Male,9,E,56,56,72,98,40,67,83,389,64.83333333333333,Pakistan,Needs Improvement
+1808,Sana Javed,18,Male,9,E,42,70,99,58,42,83,96,394,65.66666666666667,Pakistan,Needs Improvement
+1809,Ayesha Yousaf,20,Female,9,F,50,92,49,42,41,70,71,344,57.333333333333336,Pakistan,Needs Improvement
+1810,Hamza Chaudhry,19,Male,9,B,57,47,70,86,47,77,75,384,64.0,Pakistan,Needs Improvement
+1811,Noor Ahmed,16,Male,9,B,66,51,91,54,81,74,81,417,69.5,Pakistan,Needs Improvement
+1812,Danish Javed,17,Female,11,D,55,100,85,81,55,92,92,468,78.0,Pakistan,Average
+1813,Ali Malik,18,Female,12,E,58,88,55,88,61,91,83,441,73.5,Pakistan,Average
+1814,Danish Ahmed,21,Male,12,E,52,45,74,55,43,89,74,358,59.666666666666664,Pakistan,Needs Improvement
+1815,Saad Chaudhry,19,Female,10,F,86,85,94,63,93,73,95,494,82.33333333333333,Pakistan,Good
+1816,Zainab Tariq,16,Female,9,D,88,79,55,80,54,62,82,418,69.66666666666667,Pakistan,Needs Improvement
+1817,Fatima Javed,22,Female,9,D,59,66,69,63,88,94,79,439,73.16666666666667,Pakistan,Average
+1818,Ahmed Aslam,22,Male,9,F,89,82,48,83,93,83,90,478,79.66666666666667,Pakistan,Average
+1819,Noor Ahmed,19,Female,10,D,45,69,58,56,77,83,85,388,64.66666666666667,Pakistan,Needs Improvement
+1820,Amna Hassan,22,Female,10,B,45,41,47,99,77,59,72,368,61.333333333333336,Pakistan,Needs Improvement
+1821,Saad Butt,17,Female,12,C,70,62,98,63,65,56,81,414,69.0,Pakistan,Needs Improvement
+1822,Hamza Hassan,19,Male,12,D,86,89,98,79,73,72,84,497,82.83333333333333,Pakistan,Good
+1823,Noor Aslam,20,Female,10,B,68,45,89,59,61,58,99,380,63.333333333333336,Pakistan,Needs Improvement
+1824,Amna Javed,22,Male,9,C,82,94,100,79,57,72,85,484,80.66666666666667,Pakistan,Good
+1825,Ali Iqbal,17,Female,12,B,88,57,87,88,61,65,75,446,74.33333333333333,Pakistan,Average
+1826,Bilal Tariq,20,Male,11,D,84,99,96,47,82,94,92,502,83.66666666666667,Pakistan,Good
+1827,Danish Khan,20,Male,9,F,54,62,98,84,82,99,98,479,79.83333333333333,Pakistan,Average
+1828,Bilal Butt,22,Male,11,C,78,56,63,70,78,94,73,439,73.16666666666667,Pakistan,Average
+1829,Ayesha Tariq,19,Male,12,F,93,80,88,64,98,96,78,519,86.5,Pakistan,Good
+1830,Ayesha Raza,19,Male,12,B,100,89,63,68,55,76,96,451,75.16666666666667,Pakistan,Average
+1831,Hassan Malik,20,Female,9,D,88,63,98,70,53,76,86,448,74.66666666666667,Pakistan,Average
+1832,Hira Noor,21,Female,9,A,61,77,76,57,67,84,84,422,70.33333333333333,Pakistan,Average
+1833,Talha Cheema,18,Male,9,E,87,88,74,43,77,63,86,432,72.0,Pakistan,Average
+1834,Ahmed Malik,17,Male,10,D,43,57,79,53,74,54,92,360,60.0,Pakistan,Needs Improvement
+1835,Maryam Aslam,21,Male,9,C,87,88,48,74,89,58,96,444,74.0,Pakistan,Average
+1836,Talha Aslam,22,Female,11,C,60,80,63,82,81,60,94,426,71.0,Pakistan,Average
+1837,Anaya Mehmood,19,Male,9,E,86,50,43,60,69,77,87,385,64.16666666666667,Pakistan,Needs Improvement
+1838,Hira Chaudhry,18,Female,9,C,78,77,73,92,75,45,100,440,73.33333333333333,Pakistan,Average
+1839,Ali Hassan,22,Female,12,D,50,67,71,81,48,88,87,405,67.5,Pakistan,Needs Improvement
+1840,Talha Malik,16,Female,11,F,46,64,72,76,90,84,85,432,72.0,Pakistan,Average
+1841,Bilal Qureshi,18,Female,12,F,95,86,47,57,84,71,73,440,73.33333333333333,Pakistan,Average
+1842,Hamza Siddiqui,20,Female,12,B,58,43,97,50,96,50,99,394,65.66666666666667,Pakistan,Needs Improvement
+1843,Hamza Qureshi,18,Male,9,D,85,55,80,69,48,61,72,398,66.33333333333333,Pakistan,Needs Improvement
+1844,Noor Butt,21,Male,12,A,67,81,74,54,96,47,80,419,69.83333333333333,Pakistan,Needs Improvement
+1845,Hira Javed,20,Male,12,E,42,45,43,68,58,58,98,314,52.333333333333336,Pakistan,Needs Improvement
+1846,Talha Hassan,22,Male,11,C,66,94,80,100,63,52,83,455,75.83333333333333,Pakistan,Average
+1847,Zainab Chaudhry,16,Female,10,F,94,94,63,51,92,97,74,491,81.83333333333333,Pakistan,Good
+1848,Hira Akram,22,Female,10,D,92,87,40,81,71,46,82,417,69.5,Pakistan,Needs Improvement
+1849,Anaya Hassan,18,Female,11,D,89,93,81,85,97,74,91,519,86.5,Pakistan,Good
+1850,Bilal Chaudhry,20,Female,10,F,68,76,56,73,93,52,92,418,69.66666666666667,Pakistan,Needs Improvement
+1851,Noor Shah,17,Female,10,D,93,90,52,54,75,65,76,429,71.5,Pakistan,Average
+1852,Sana Raza,16,Female,11,F,52,94,73,44,68,68,90,399,66.5,Pakistan,Needs Improvement
+1853,Abdullah Qureshi,18,Male,11,A,87,97,67,65,74,95,87,485,80.83333333333333,Pakistan,Good
+1854,Bilal Hassan,18,Male,12,E,66,97,51,82,43,91,100,430,71.66666666666667,Pakistan,Average
+1855,Ahmed Tariq,17,Female,10,C,40,93,40,81,53,80,97,387,64.5,Pakistan,Needs Improvement
+1856,Talha Raza,22,Female,9,A,72,80,45,67,69,45,82,378,63.0,Pakistan,Needs Improvement
+1857,Abdullah Yousaf,21,Female,11,B,45,95,47,66,77,71,80,401,66.83333333333333,Pakistan,Needs Improvement
+1858,Sana Raza,22,Female,10,A,99,83,62,91,80,63,95,478,79.66666666666667,Pakistan,Average
+1859,Amna Hassan,18,Female,9,A,81,99,50,43,43,65,78,381,63.5,Pakistan,Needs Improvement
+1860,Danish Akram,18,Male,9,B,99,75,54,90,93,80,82,491,81.83333333333333,Pakistan,Good
+1861,Ali Chaudhry,20,Female,9,C,79,60,72,73,77,49,71,410,68.33333333333333,Pakistan,Needs Improvement
+1862,Sana Raza,17,Female,9,B,66,91,78,49,81,94,79,459,76.5,Pakistan,Average
+1863,Abdullah Qureshi,20,Female,9,E,40,43,65,64,55,57,94,324,54.0,Pakistan,Needs Improvement
+1864,Maryam Malik,16,Male,9,B,82,68,66,41,57,80,74,394,65.66666666666667,Pakistan,Needs Improvement
+1865,Iqra Chaudhry,19,Female,12,C,97,82,72,96,75,53,90,475,79.16666666666667,Pakistan,Average
+1866,Hamza Qureshi,20,Female,11,D,67,41,61,67,74,40,75,350,58.333333333333336,Pakistan,Needs Improvement
+1867,Hira Iqbal,20,Male,12,F,85,82,45,81,69,78,76,440,73.33333333333333,Pakistan,Average
+1868,Amna Malik,21,Male,10,E,97,55,69,44,62,55,78,382,63.666666666666664,Pakistan,Needs Improvement
+1869,Anaya Javed,22,Male,11,E,74,75,95,71,45,95,85,455,75.83333333333333,Pakistan,Average
+1870,Amna Shah,18,Male,9,B,85,42,64,70,69,56,93,386,64.33333333333333,Pakistan,Needs Improvement
+1871,Talha Noor,18,Female,12,B,87,96,90,94,59,46,87,472,78.66666666666667,Pakistan,Average
+1872,Zainab Yousaf,19,Male,9,A,55,82,91,99,73,66,87,466,77.66666666666667,Pakistan,Average
+1873,Amna Aslam,18,Male,10,B,68,74,83,56,99,68,78,448,74.66666666666667,Pakistan,Average
+1874,Maryam Malik,21,Male,10,E,71,80,92,56,59,69,92,427,71.16666666666667,Pakistan,Average
+1875,Ali Tariq,18,Female,12,D,84,50,93,57,71,56,81,411,68.5,Pakistan,Needs Improvement
+1876,Anaya Chaudhry,21,Female,9,D,41,51,78,49,93,54,98,366,61.0,Pakistan,Needs Improvement
+1877,Hira Butt,20,Female,12,F,70,63,47,87,66,84,93,417,69.5,Pakistan,Needs Improvement
+1878,Sana Chaudhry,16,Male,10,F,57,60,84,61,79,44,71,385,64.16666666666667,Pakistan,Needs Improvement
+1879,Hamza Aslam,22,Male,9,E,90,59,78,68,89,40,87,424,70.66666666666667,Pakistan,Average
+1880,Amna Yousaf,16,Male,10,E,93,48,93,89,41,55,99,419,69.83333333333333,Pakistan,Needs Improvement
+1881,Anaya Yousaf,16,Female,11,F,72,52,83,52,73,83,80,415,69.16666666666667,Pakistan,Needs Improvement
+1882,Hira Iqbal,22,Male,10,E,68,61,48,83,58,52,96,370,61.666666666666664,Pakistan,Needs Improvement
+1883,Anaya Mirza,22,Male,9,D,41,42,75,89,87,55,94,389,64.83333333333333,Pakistan,Needs Improvement
+1884,Hamza Noor,17,Male,11,A,75,62,74,62,86,82,72,441,73.5,Pakistan,Average
+1885,Saad Ahmed,22,Female,9,B,57,94,69,88,92,88,76,488,81.33333333333333,Pakistan,Good
+1886,Abdullah Khan,20,Female,11,E,41,80,53,49,43,59,98,325,54.166666666666664,Pakistan,Needs Improvement
+1887,Amna Cheema,17,Female,10,D,92,84,67,92,56,82,78,473,78.83333333333333,Pakistan,Average
+1888,Anaya Noor,20,Male,10,D,70,90,68,63,49,91,75,431,71.83333333333333,Pakistan,Average
+1889,Hassan Cheema,16,Female,10,A,87,78,94,80,83,61,87,483,80.5,Pakistan,Good
+1890,Anaya Butt,19,Male,9,F,41,42,72,45,97,52,75,349,58.166666666666664,Pakistan,Needs Improvement
+1891,Ayesha Yousaf,22,Male,12,D,92,67,74,98,94,94,79,519,86.5,Pakistan,Good
+1892,Fatima Noor,19,Male,9,B,72,72,94,48,67,92,98,445,74.16666666666667,Pakistan,Average
+1893,Maryam Yousaf,22,Male,12,E,68,95,60,94,54,64,88,435,72.5,Pakistan,Average
+1894,Danish Shah,22,Male,9,D,72,83,52,54,41,56,82,358,59.666666666666664,Pakistan,Needs Improvement
+1895,Bilal Butt,20,Male,11,B,94,87,97,85,71,61,94,495,82.5,Pakistan,Good
+1896,Talha Hassan,17,Male,9,C,78,40,96,83,91,76,89,464,77.33333333333333,Pakistan,Average
+1897,Ahmed Iqbal,20,Female,12,F,88,83,55,100,68,40,72,434,72.33333333333333,Pakistan,Average
+1898,Abdullah Noor,17,Male,11,D,80,50,85,47,78,83,77,423,70.5,Pakistan,Average
+1899,Abdullah Shah,16,Male,9,B,69,43,81,50,46,48,75,337,56.166666666666664,Pakistan,Needs Improvement
+1900,Talha Iqbal,16,Female,9,E,79,75,40,91,87,98,76,470,78.33333333333333,Pakistan,Average
+1901,Fatima Aslam,18,Male,12,A,93,56,74,87,95,52,77,457,76.16666666666667,Pakistan,Average
+1902,Ayesha Butt,21,Female,12,C,71,96,60,63,65,80,89,435,72.5,Pakistan,Average
+1903,Hira Raza,17,Female,9,F,66,49,75,59,51,53,96,353,58.833333333333336,Pakistan,Needs Improvement
+1904,Hassan Tariq,20,Female,10,B,41,82,83,84,96,43,78,429,71.5,Pakistan,Average
+1905,Sana Akram,18,Female,11,F,85,70,94,95,44,45,88,433,72.16666666666667,Pakistan,Average
+1906,Hira Malik,21,Male,9,E,50,71,84,86,50,44,77,385,64.16666666666667,Pakistan,Needs Improvement
+1907,Maryam Ahmed,22,Male,9,B,92,47,77,54,60,91,93,421,70.16666666666667,Pakistan,Average
+1908,Talha Noor,21,Male,11,D,65,66,69,92,55,72,91,419,69.83333333333333,Pakistan,Needs Improvement
+1909,Amna Butt,21,Female,10,C,53,93,76,62,45,75,92,404,67.33333333333333,Pakistan,Needs Improvement
+1910,Danish Hassan,18,Male,12,A,98,92,96,50,91,56,78,483,80.5,Pakistan,Good
+1911,Talha Iqbal,16,Male,12,F,79,73,94,94,70,42,95,452,75.33333333333333,Pakistan,Average
+1912,Sana Chaudhry,22,Male,10,B,55,74,65,76,74,96,90,440,73.33333333333333,Pakistan,Average
+1913,Maryam Butt,19,Male,9,F,53,85,95,94,70,81,87,478,79.66666666666667,Pakistan,Average
+1914,Maryam Tariq,21,Male,10,C,54,93,70,92,82,77,75,468,78.0,Pakistan,Average
+1915,Talha Hassan,20,Male,9,B,91,83,48,55,82,73,73,432,72.0,Pakistan,Average
+1916,Iqra Noor,19,Female,11,D,73,89,89,77,61,95,90,484,80.66666666666667,Pakistan,Good
+1917,Amna Tariq,22,Male,12,C,85,57,70,64,66,68,90,410,68.33333333333333,Pakistan,Needs Improvement
+1918,Hamza Chaudhry,17,Male,12,A,93,45,43,98,98,75,87,452,75.33333333333333,Pakistan,Average
+1919,Fatima Siddiqui,21,Female,11,E,54,80,94,71,60,99,76,458,76.33333333333333,Pakistan,Average
+1920,Talha Ahmed,22,Male,10,F,97,83,62,61,44,98,80,445,74.16666666666667,Pakistan,Average
+1921,Zainab Javed,19,Female,9,A,69,50,68,90,75,92,82,444,74.0,Pakistan,Average
+1922,Amna Akram,16,Female,12,F,64,49,86,64,43,79,75,385,64.16666666666667,Pakistan,Needs Improvement
+1923,Usman Mirza,18,Female,11,A,52,74,47,69,67,53,83,362,60.333333333333336,Pakistan,Needs Improvement
+1924,Noor Yousaf,16,Male,12,F,45,47,60,79,85,67,77,383,63.833333333333336,Pakistan,Needs Improvement
+1925,Talha Ahmed,21,Female,9,E,45,100,51,50,91,56,74,393,65.5,Pakistan,Needs Improvement
+1926,Fatima Tariq,18,Female,12,D,71,65,75,47,65,92,70,415,69.16666666666667,Pakistan,Needs Improvement
+1927,Ahmed Mehmood,20,Male,9,C,77,66,88,76,56,65,88,428,71.33333333333333,Pakistan,Average
+1928,Sana Raza,17,Female,9,E,72,57,48,81,94,64,96,416,69.33333333333333,Pakistan,Needs Improvement
+1929,Bilal Yousaf,17,Male,12,B,43,53,85,94,40,54,78,369,61.5,Pakistan,Needs Improvement
+1930,Usman Shah,21,Male,9,C,81,47,61,64,85,40,93,378,63.0,Pakistan,Needs Improvement
+1931,Hamza Ahmed,18,Female,10,C,95,98,63,74,93,56,95,479,79.83333333333333,Pakistan,Average
+1932,Hamza Khan,17,Male,12,F,50,59,95,98,46,99,98,447,74.5,Pakistan,Average
+1933,Fatima Butt,20,Male,10,B,95,75,48,98,76,94,96,486,81.0,Pakistan,Good
+1934,Danish Aslam,16,Female,12,C,99,61,53,60,51,64,91,388,64.66666666666667,Pakistan,Needs Improvement
+1935,Danish Hassan,18,Male,11,C,90,84,62,70,95,86,90,487,81.16666666666667,Pakistan,Good
+1936,Hira Ahmed,19,Male,9,C,90,80,77,70,47,60,95,424,70.66666666666667,Pakistan,Average
+1937,Ali Shah,22,Male,9,B,66,45,56,56,43,94,82,360,60.0,Pakistan,Needs Improvement
+1938,Zainab Shah,19,Male,10,F,71,54,48,80,92,89,70,434,72.33333333333333,Pakistan,Average
+1939,Ayesha Javed,17,Male,10,E,41,62,74,73,64,53,90,367,61.166666666666664,Pakistan,Needs Improvement
+1940,Talha Chaudhry,19,Female,10,A,57,81,40,79,98,66,90,421,70.16666666666667,Pakistan,Average
+1941,Noor Akram,16,Female,9,F,84,82,62,46,94,48,88,416,69.33333333333333,Pakistan,Needs Improvement
+1942,Usman Noor,19,Female,12,D,100,77,40,90,82,76,97,465,77.5,Pakistan,Average
+1943,Talha Raza,17,Male,10,F,72,41,55,64,75,69,86,376,62.666666666666664,Pakistan,Needs Improvement
+1944,Hamza Raza,20,Female,11,F,92,48,85,48,86,62,98,421,70.16666666666667,Pakistan,Average
+1945,Bilal Javed,22,Male,10,D,66,41,59,53,47,86,82,352,58.666666666666664,Pakistan,Needs Improvement
+1946,Saad Tariq,18,Male,10,F,75,50,90,85,62,43,73,405,67.5,Pakistan,Needs Improvement
+1947,Ali Yousaf,20,Female,11,F,88,67,58,40,81,61,82,395,65.83333333333333,Pakistan,Needs Improvement
+1948,Fatima Yousaf,17,Male,11,A,81,81,78,68,46,53,99,407,67.83333333333333,Pakistan,Needs Improvement
+1949,Hira Siddiqui,21,Female,9,C,45,70,79,71,82,85,78,432,72.0,Pakistan,Average
+1950,Saad Iqbal,22,Female,11,A,92,63,88,74,73,100,75,490,81.66666666666667,Pakistan,Good
+1951,Usman Qureshi,16,Male,9,A,96,61,42,46,46,93,75,384,64.0,Pakistan,Needs Improvement
+1952,Hira Mirza,19,Female,10,F,92,86,89,74,76,79,81,496,82.66666666666667,Pakistan,Good
+1953,Ali Butt,22,Female,12,A,77,89,72,85,98,69,98,490,81.66666666666667,Pakistan,Good
+1954,Fatima Aslam,20,Male,11,A,88,70,84,53,91,65,82,451,75.16666666666667,Pakistan,Average
+1955,Sana Akram,19,Female,10,E,91,52,77,56,42,84,74,402,67.0,Pakistan,Needs Improvement
+1956,Zainab Ahmed,19,Male,11,C,48,48,43,55,56,80,89,330,55.0,Pakistan,Needs Improvement
+1957,Saad Cheema,21,Male,11,D,90,96,67,89,97,95,98,534,89.0,Pakistan,Good
+1958,Ayesha Javed,22,Male,11,A,71,66,73,54,44,83,97,391,65.16666666666667,Pakistan,Needs Improvement
+1959,Amna Butt,17,Male,11,F,53,67,47,46,57,90,83,360,60.0,Pakistan,Needs Improvement
+1960,Ahmed Raza,17,Female,12,A,69,51,93,42,51,81,96,387,64.5,Pakistan,Needs Improvement
+1961,Usman Javed,16,Male,12,F,98,46,78,79,67,70,97,438,73.0,Pakistan,Average
+1962,Talha Ahmed,21,Male,9,D,42,94,100,94,76,75,86,481,80.16666666666667,Pakistan,Good
+1963,Hassan Iqbal,16,Female,11,D,90,57,75,78,62,81,96,443,73.83333333333333,Pakistan,Average
+1964,Anaya Akram,21,Male,12,A,40,84,86,73,78,100,84,461,76.83333333333333,Pakistan,Average
+1965,Iqra Akram,16,Female,10,A,41,99,83,76,58,94,84,451,75.16666666666667,Pakistan,Average
+1966,Ahmed Siddiqui,17,Male,10,A,59,93,70,76,82,76,94,456,76.0,Pakistan,Average
+1967,Ayesha Butt,17,Female,12,F,84,49,98,87,80,50,72,448,74.66666666666667,Pakistan,Average
+1968,Ayesha Tariq,21,Female,10,E,60,63,93,66,68,82,93,432,72.0,Pakistan,Average
+1969,Usman Chaudhry,20,Male,11,C,87,68,93,51,91,85,82,475,79.16666666666667,Pakistan,Average
+1970,Zainab Qureshi,22,Male,10,A,66,96,87,83,60,42,91,434,72.33333333333333,Pakistan,Average
+1971,Iqra Noor,22,Male,9,D,80,66,94,97,71,97,73,505,84.16666666666667,Pakistan,Good
+1972,Zainab Yousaf,19,Male,11,C,83,86,58,77,78,100,86,482,80.33333333333333,Pakistan,Good
+1973,Ayesha Aslam,16,Male,12,B,62,45,83,63,86,57,86,396,66.0,Pakistan,Needs Improvement
+1974,Hassan Noor,16,Male,9,D,59,95,65,52,52,96,99,419,69.83333333333333,Pakistan,Needs Improvement
+1975,Noor Ahmed,19,Female,10,A,73,97,78,71,67,40,81,426,71.0,Pakistan,Average
+1976,Danish Tariq,19,Female,11,E,100,71,99,51,80,85,84,486,81.0,Pakistan,Good
+1977,Sana Khan,20,Male,10,B,90,41,76,100,44,89,80,440,73.33333333333333,Pakistan,Average
+1978,Anaya Hassan,19,Female,12,D,60,69,67,52,93,72,79,413,68.83333333333333,Pakistan,Needs Improvement
+1979,Ahmed Malik,22,Female,12,D,91,72,59,45,65,100,96,432,72.0,Pakistan,Average
+1980,Noor Noor,17,Female,11,F,68,66,46,64,71,42,79,357,59.5,Pakistan,Needs Improvement
+1981,Fatima Khan,19,Male,11,C,65,92,71,100,54,58,78,440,73.33333333333333,Pakistan,Average
+1982,Anaya Siddiqui,20,Male,10,C,96,90,44,83,66,98,96,477,79.5,Pakistan,Average
+1983,Hira Tariq,19,Female,11,F,64,52,88,79,81,72,78,436,72.66666666666667,Pakistan,Average
+1984,Bilal Ahmed,18,Female,9,F,89,92,100,58,46,93,99,478,79.66666666666667,Pakistan,Average
+1985,Amna Shah,20,Male,9,F,49,63,82,84,75,76,94,429,71.5,Pakistan,Average
+1986,Bilal Mirza,16,Female,10,C,87,84,57,64,71,63,82,426,71.0,Pakistan,Average
+1987,Noor Qureshi,20,Female,9,E,66,71,47,100,100,42,70,426,71.0,Pakistan,Average
+1988,Hamza Siddiqui,18,Male,12,B,78,95,90,76,85,62,92,486,81.0,Pakistan,Good
+1989,Ahmed Javed,19,Male,10,F,96,63,80,62,84,43,76,428,71.33333333333333,Pakistan,Average
+1990,Noor Javed,17,Male,11,B,81,60,82,82,90,79,85,474,79.0,Pakistan,Average
+1991,Ali Noor,18,Female,12,F,78,94,100,74,62,63,94,471,78.5,Pakistan,Average
+1992,Maryam Javed,19,Female,9,A,41,46,52,64,79,56,81,338,56.333333333333336,Pakistan,Needs Improvement
+1993,Fatima Butt,20,Male,10,B,91,99,62,98,90,49,84,489,81.5,Pakistan,Good
+1994,Sana Butt,16,Female,11,E,49,69,87,52,82,67,93,406,67.66666666666667,Pakistan,Needs Improvement
+1995,Usman Tariq,18,Male,12,B,99,50,83,76,40,89,83,437,72.83333333333333,Pakistan,Average
+1996,Ali Javed,22,Female,12,B,85,97,67,89,50,65,88,453,75.5,Pakistan,Average
+1997,Talha Yousaf,17,Male,9,E,52,41,91,57,96,71,87,408,68.0,Pakistan,Needs Improvement
+1998,Amna Mirza,16,Female,10,B,44,46,75,42,62,80,79,349,58.166666666666664,Pakistan,Needs Improvement
+1999,Bilal Chaudhry,19,Male,11,F,65,42,98,70,78,88,83,441,73.5,Pakistan,Average
+2000,Maryam Hassan,19,Male,12,D,70,53,81,74,65,91,100,434,72.33333333333333,Pakistan,Average
