@@ -1,0 +1,25 @@
+Topics for Today
+
+Model Evaluation
+
+
+Learn about:
+
+Training vs Testing Performance
+Overfitting and Underfitting
+Accuracy
+Precision
+Recall
+F1-Score
+Confusion Matrix
+
+Classification Algorithms
+
+
+Learn about:
+
+What is Classification?
+Classification vs Regression
+Logistic Regression
+Decision Trees
+Real-world Classification Examples
